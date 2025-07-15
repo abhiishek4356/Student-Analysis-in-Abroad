@@ -1,0 +1,1001 @@
+Student_ID,Name,Gender,Country_of_Origin,Destination_Country,University,Field_of_Study,Year_of_Departure,Duration_of_Study,Scholarship_Status,Mode_of_Study,Total_Expense_USD
+STD0001,David Buchanan,Male,Nepal,USA,Stanford University,Arts,2019,2,Yes,Online,24349
+STD0002,Amanda Terry,Male,Bangladesh,USA,Harvard University,Business,2019,5,Yes,Online,28462
+STD0003,James Stout,Male,Bangladesh,Australia,ANU,Arts,2024,2,No,Offline,28210
+STD0004,Steven Skinner,Male,China,Australia,ANU,Business,2021,1,No,Offline,49565
+STD0005,Nathan Phillips,Other,Brazil,USA,Stanford University,Sciences,2018,4,Yes,Offline,25599
+STD0006,Charles Hobbs,Male,Pakistan,Australia,University of Sydney,Business,2023,2,No,Online,66054
+STD0007,Samantha Gomez,Female,Nigeria,UK,University of Cambridge,Arts,2023,3,Yes,Offline,16641
+STD0008,David Payne,Other,Nigeria,Germany,LMU Munich,Business,2023,2,Yes,Online,20147
+STD0009,Casey Huynh,Other,Bangladesh,Germany,LMU Munich,Law,2020,1,Yes,Online,15336
+STD0010,Sara Miles,Other,Bangladesh,Germany,TU Munich,Law,2023,3,Yes,Offline,17964
+STD0011,Angela Bryant,Male,Vietnam,Canada,McGill University,Medicine,2023,5,No,Offline,68839
+STD0012,Regina Cross,Other,Bangladesh,France,Sorbonne University,Medicine,2021,1,Yes,Online,10008
+STD0013,Jason Carter,Female,China,Japan,Osaka University,Business,2021,5,No,Offline,46256
+STD0014,Erica Wood,Other,India,UK,Imperial College London,Arts,2020,1,No,Offline,20365
+STD0015,Paul Smith,Other,Vietnam,USA,Stanford University,Arts,2024,2,Yes,Offline,25937
+STD0016,Tommy Small,Other,Nigeria,Canada,McGill University,Medicine,2024,5,Yes,Offline,21010
+STD0017,Tonya Henderson,Male,India,UK,University of Cambridge,Arts,2018,2,Yes,Online,28983
+STD0018,Adam Castillo,Male,Vietnam,UK,Imperial College London,Medicine,2023,4,Yes,Offline,22290
+STD0019,Christine Pacheco,Other,Bangladesh,Australia,University of Sydney,Law,2020,4,No,Offline,68957
+STD0020,Robert Wilcox,Male,Vietnam,UK,University of Oxford,Law,2020,1,Yes,Online,5235
+STD0021,James Hammond,Male,Nepal,USA,Harvard University,Business,2024,3,Yes,Online,14125
+STD0022,Steven Harmon,Other,Vietnam,Australia,University of Sydney,Medicine,2022,5,No,Online,61420
+STD0023,Robert Brown,Male,Vietnam,Japan,University of Tokyo,Business,2023,4,No,Offline,36941
+STD0024,Laurie Jackson,Male,Vietnam,USA,Stanford University,Business,2021,3,Yes,Online,11278
+STD0025,Kimberly Powers,Male,Nigeria,Netherlands,Delft University,Education,2020,4,Yes,Online,19520
+STD0026,Robert Bailey,Male,Nepal,USA,Stanford University,Engineering,2024,2,Yes,Offline,20913
+STD0027,Todd Olson,Male,Vietnam,Australia,ANU,Engineering,2021,1,No,Offline,61384
+STD0028,Jose Robinson,Male,Vietnam,Germany,Heidelberg University,Sciences,2019,3,Yes,Online,23978
+STD0029,Carla Jones,Other,India,France,Sorbonne University,Engineering,2021,5,Yes,Online,21640
+STD0030,Mia Peterson,Other,Nepal,Canada,University of Toronto,Business,2024,2,No,Online,68345
+STD0031,Matthew Gonzales,Female,Nigeria,USA,Stanford University,Business,2023,5,No,Offline,23386
+STD0032,Brian Rojas,Male,Pakistan,Australia,ANU,Education,2023,3,No,Offline,59274
+STD0033,Kristine Hawkins,Male,Nepal,USA,MIT,Business,2022,2,No,Online,32872
+STD0034,Vanessa Warren DDS,Male,Nepal,Australia,ANU,Arts,2021,5,No,Online,53769
+STD0035,Robert Johnson,Male,Brazil,UK,University of Oxford,Arts,2018,5,Yes,Offline,14232
+STD0036,Margaret Escobar,Other,Nigeria,France,Sorbonne University,Arts,2021,3,Yes,Online,25784
+STD0037,Steven Maldonado,Female,Bangladesh,Germany,TU Munich,Engineering,2024,2,No,Online,58577
+STD0038,Holly Martinez,Male,Vietnam,Japan,Osaka University,Engineering,2018,2,Yes,Offline,24087
+STD0039,Jasmine Choi,Female,China,Japan,University of Tokyo,Engineering,2020,1,No,Online,54699
+STD0040,Steven Garza,Other,Nigeria,UK,University of Cambridge,Education,2023,2,Yes,Online,10801
+STD0041,Melissa Brown,Female,Bangladesh,USA,Harvard University,Computer Science,2024,2,No,Online,61601
+STD0042,Trevor Harris,Male,Nepal,Japan,University of Tokyo,Sciences,2019,4,No,Offline,63774
+STD0043,Darlene Ward,Female,Nigeria,Australia,University of Melbourne,Law,2020,3,Yes,Offline,16506
+STD0044,Charles Henry,Female,Bangladesh,France,Sorbonne University,Business,2019,5,No,Online,17104
+STD0045,Robert Davis,Female,Bangladesh,France,Sciences Po,Computer Science,2022,5,Yes,Offline,23893
+STD0046,Bryan Johnson,Male,Nigeria,Germany,TU Munich,Education,2022,5,Yes,Offline,19132
+STD0047,Rebecca Gutierrez,Other,Nepal,France,Sciences Po,Computer Science,2024,1,No,Offline,53705
+STD0048,Tracy Garcia,Other,Bangladesh,France,École Polytechnique,Arts,2019,2,No,Offline,54388
+STD0049,Sheila Gonzalez,Female,China,Germany,Heidelberg University,Engineering,2020,2,No,Offline,40473
+STD0050,Kevin Maldonado,Other,Vietnam,Netherlands,Erasmus University,Law,2021,2,Yes,Offline,21890
+STD0051,Alex Butler,Male,Pakistan,UK,University of Oxford,Arts,2024,2,Yes,Online,6514
+STD0052,Larry Strickland,Female,Nigeria,Netherlands,Erasmus University,Business,2021,5,Yes,Offline,21199
+STD0053,William Gutierrez,Male,Bangladesh,Australia,University of Melbourne,Engineering,2024,4,Yes,Online,27803
+STD0054,Barry Johnson,Male,Vietnam,USA,Stanford University,Law,2021,2,No,Offline,59496
+STD0055,Angela Johnson,Male,Vietnam,Japan,Osaka University,Sciences,2023,4,No,Offline,59268
+STD0056,Mrs. Stephanie Powers,Other,Nigeria,Germany,LMU Munich,Sciences,2019,3,No,Online,56762
+STD0057,Kevin Austin,Female,Brazil,Australia,ANU,Computer Science,2022,1,Yes,Online,12577
+STD0058,Amanda Nguyen,Male,Bangladesh,Canada,University of British Columbia,Law,2021,4,No,Offline,37248
+STD0059,Stacey Dennis,Other,India,Australia,ANU,Education,2023,1,No,Offline,10386
+STD0060,Adam Mccormick,Other,Pakistan,Germany,Heidelberg University,Education,2023,5,Yes,Offline,12190
+STD0061,Richard Nguyen,Female,Brazil,Japan,Kyoto University,Engineering,2020,4,Yes,Offline,9182
+STD0062,Thomas Gates,Male,India,Japan,Osaka University,Engineering,2023,4,Yes,Offline,10954
+STD0063,John Kline,Male,India,Germany,Heidelberg University,Computer Science,2021,3,No,Offline,28235
+STD0064,Jamie Wells,Male,Bangladesh,Germany,TU Munich,Sciences,2023,5,Yes,Offline,12347
+STD0065,Molly Murray,Male,Nepal,USA,Harvard University,Law,2024,1,Yes,Online,9136
+STD0066,Stephen Sims,Female,Vietnam,UK,Imperial College London,Law,2023,3,No,Online,49707
+STD0067,Samantha Patterson,Other,Nepal,Canada,McGill University,Business,2018,3,No,Offline,56859
+STD0068,Dr. Michelle Garrett MD,Male,Nigeria,UK,Imperial College London,Law,2023,3,Yes,Online,16377
+STD0069,Shelby Carroll,Male,Bangladesh,France,Sorbonne University,Computer Science,2024,4,No,Online,38411
+STD0070,Tammy Taylor,Female,Pakistan,Netherlands,Erasmus University,Medicine,2019,5,No,Offline,40465
+STD0071,Matthew Sanchez,Male,Bangladesh,Germany,Heidelberg University,Law,2020,4,Yes,Offline,23672
+STD0072,Joy Perkins DDS,Female,Bangladesh,France,Sorbonne University,Sciences,2019,4,Yes,Offline,13465
+STD0073,Randy Martin,Other,Pakistan,Germany,LMU Munich,Arts,2018,5,Yes,Online,12908
+STD0074,Nicholas Chan,Other,Bangladesh,Netherlands,Erasmus University,Law,2021,4,No,Online,16098
+STD0075,Lori Shelton,Female,Brazil,Australia,ANU,Law,2023,5,No,Offline,46272
+STD0076,Kayla Craig,Female,Pakistan,Japan,Osaka University,Computer Science,2023,4,No,Offline,26475
+STD0077,Christopher Perry MD,Female,Nigeria,UK,Imperial College London,Law,2018,5,Yes,Online,12090
+STD0078,Jerry Cole,Male,Vietnam,Germany,LMU Munich,Arts,2024,2,No,Online,33650
+STD0079,James Sanders,Female,China,Germany,TU Munich,Medicine,2018,1,No,Online,51803
+STD0080,Johnathan Ward,Female,Vietnam,UK,University of Oxford,Arts,2021,4,No,Online,13367
+STD0081,Todd Beck,Female,Brazil,Netherlands,Delft University,Business,2021,1,Yes,Online,9888
+STD0082,Nicholas Mckenzie,Other,Brazil,UK,University of Oxford,Business,2024,4,Yes,Offline,19762
+STD0083,Sara Turner,Female,Vietnam,Germany,LMU Munich,Education,2022,5,Yes,Online,29993
+STD0084,Kimberly Young,Male,Nigeria,Australia,ANU,Business,2019,2,Yes,Online,5087
+STD0085,Jason Guerra,Female,Bangladesh,Netherlands,Erasmus University,Sciences,2018,2,No,Offline,56070
+STD0086,Stephen Pratt,Female,Vietnam,UK,Imperial College London,Law,2024,5,Yes,Offline,8760
+STD0087,Elizabeth Cabrera,Male,Nigeria,Canada,McGill University,Medicine,2018,2,No,Offline,38780
+STD0088,Tiffany Ward,Other,Nepal,Netherlands,Erasmus University,Arts,2021,3,No,Offline,15271
+STD0089,Chris Turner,Other,India,Japan,Osaka University,Computer Science,2020,1,Yes,Online,27095
+STD0090,Kelly Adams,Male,India,Germany,LMU Munich,Engineering,2021,5,No,Offline,21894
+STD0091,Mary Stark,Female,Bangladesh,Netherlands,Delft University,Sciences,2021,3,No,Online,66212
+STD0092,Katie Cantrell,Female,China,France,École Polytechnique,Sciences,2023,4,Yes,Offline,7885
+STD0093,Kimberly Lin,Female,Pakistan,Germany,Heidelberg University,Business,2024,5,Yes,Offline,18541
+STD0094,Peter Pittman,Other,India,Australia,University of Sydney,Computer Science,2024,4,No,Online,23340
+STD0095,Andrew Wang,Other,Brazil,Canada,McGill University,Sciences,2021,1,Yes,Online,28258
+STD0096,Cory Hale,Other,China,Germany,LMU Munich,Engineering,2021,1,Yes,Online,20120
+STD0097,Craig Scott,Other,Nepal,Canada,McGill University,Arts,2023,3,No,Offline,40947
+STD0098,Robert Johns,Female,Nigeria,Netherlands,Erasmus University,Medicine,2019,5,Yes,Online,14052
+STD0099,Amy Fox,Male,Bangladesh,France,Sciences Po,Arts,2020,3,No,Online,39264
+STD0100,William Cross,Female,Vietnam,France,École Polytechnique,Education,2020,2,Yes,Offline,12653
+STD0101,Daniel Melendez,Other,Bangladesh,USA,MIT,Sciences,2024,4,No,Online,42461
+STD0102,Robin Brooks,Male,India,Canada,University of British Columbia,Computer Science,2024,4,Yes,Offline,5502
+STD0103,Jane Woods,Male,China,Japan,Osaka University,Medicine,2021,3,No,Offline,52587
+STD0104,Travis Wright,Female,Nepal,France,Sciences Po,Education,2023,4,Yes,Online,12692
+STD0105,Darrell Torres,Female,Brazil,Australia,University of Sydney,Business,2018,1,No,Online,55482
+STD0106,Melissa Mcdaniel,Male,Brazil,USA,Harvard University,Computer Science,2020,3,No,Offline,19540
+STD0107,Brian Cole,Male,Nigeria,Japan,Osaka University,Medicine,2019,1,No,Online,42615
+STD0108,Aaron Murphy,Female,China,Australia,ANU,Arts,2020,1,No,Offline,54407
+STD0109,Jennifer Dillon,Other,China,UK,University of Cambridge,Computer Science,2020,4,No,Offline,65397
+STD0110,Matthew Hernandez,Male,Brazil,Australia,ANU,Sciences,2019,4,No,Offline,55827
+STD0111,Todd West,Female,Brazil,USA,Stanford University,Education,2018,5,Yes,Offline,14378
+STD0112,Gregory Thomas,Other,Nigeria,France,Sorbonne University,Law,2020,2,Yes,Online,15123
+STD0113,Sharon Mcgrath,Other,Vietnam,USA,Stanford University,Computer Science,2019,1,No,Offline,58986
+STD0114,Mackenzie Kennedy,Other,Bangladesh,Canada,University of Toronto,Medicine,2020,5,No,Online,26840
+STD0115,William Taylor,Male,Vietnam,Germany,LMU Munich,Computer Science,2021,1,Yes,Online,27161
+STD0116,Joseph Martinez,Male,Bangladesh,France,Sorbonne University,Education,2020,5,Yes,Offline,17077
+STD0117,Margaret Terry,Male,Brazil,Japan,Osaka University,Computer Science,2023,2,No,Online,50602
+STD0118,Robert Vazquez,Other,Pakistan,Australia,University of Sydney,Business,2024,4,No,Offline,17646
+STD0119,David Williams,Female,China,USA,Harvard University,Arts,2018,1,Yes,Online,17735
+STD0120,Charlene Perez,Other,Vietnam,France,Sciences Po,Education,2023,2,No,Online,64636
+STD0121,Savannah Graham,Other,Vietnam,Japan,Kyoto University,Engineering,2020,2,No,Offline,25473
+STD0122,Cody Davis,Other,Pakistan,UK,Imperial College London,Computer Science,2023,3,Yes,Offline,14040
+STD0123,Susan Griffith,Other,Nigeria,UK,University of Cambridge,Business,2019,5,Yes,Online,15928
+STD0124,Joanna Wright,Male,Nigeria,Canada,University of British Columbia,Law,2024,5,Yes,Online,12634
+STD0125,Bethany King,Female,Pakistan,Canada,University of British Columbia,Engineering,2024,2,Yes,Offline,10717
+STD0126,Lucas Holden,Female,Nepal,USA,Harvard University,Engineering,2024,2,No,Online,21419
+STD0127,Chris Steele,Other,Brazil,USA,Harvard University,Education,2018,1,No,Offline,60988
+STD0128,William Shah,Other,Pakistan,UK,University of Cambridge,Law,2018,5,No,Offline,52161
+STD0129,Jordan Townsend,Female,India,USA,MIT,Education,2023,1,No,Offline,14816
+STD0130,Jonathan Taylor,Male,Nepal,France,Sciences Po,Medicine,2019,3,No,Offline,49150
+STD0131,Jonathan Pierce,Male,Brazil,Netherlands,Erasmus University,Education,2024,1,Yes,Offline,19796
+STD0132,Todd Savage,Female,Nigeria,Japan,Kyoto University,Sciences,2021,1,No,Offline,30481
+STD0133,Amy Byrd,Male,Brazil,France,Sorbonne University,Sciences,2018,1,Yes,Offline,8164
+STD0134,Michelle Stafford,Other,Pakistan,Canada,University of British Columbia,Engineering,2022,5,No,Online,36922
+STD0135,Mark Morrison,Female,Pakistan,Japan,Osaka University,Engineering,2022,3,No,Online,47874
+STD0136,Jeffrey Sweeney,Male,Nigeria,Canada,University of British Columbia,Sciences,2024,1,No,Offline,17529
+STD0137,Kathleen Knight,Other,Brazil,Australia,ANU,Engineering,2023,3,Yes,Online,13954
+STD0138,Donna Zamora,Male,Brazil,France,École Polytechnique,Engineering,2024,2,No,Online,19297
+STD0139,Douglas Williams,Female,India,UK,Imperial College London,Law,2021,4,No,Online,34251
+STD0140,Jerome Vaughn,Male,Brazil,France,Sciences Po,Business,2019,2,Yes,Online,13916
+STD0141,Heather Ruiz,Female,Vietnam,Japan,Kyoto University,Sciences,2020,2,Yes,Offline,19087
+STD0142,Lisa Fox DVM,Other,Nepal,Germany,LMU Munich,Sciences,2023,3,Yes,Online,17951
+STD0143,Tammy Winters,Male,India,USA,Harvard University,Arts,2024,2,No,Offline,31503
+STD0144,Jim Flores,Male,Nepal,USA,MIT,Education,2019,4,Yes,Offline,7361
+STD0145,Christine Lee,Female,Bangladesh,USA,MIT,Engineering,2018,3,No,Offline,56497
+STD0146,Linda Erickson,Male,Bangladesh,Germany,TU Munich,Education,2020,2,No,Offline,15775
+STD0147,Larry Poole,Other,Bangladesh,UK,University of Oxford,Education,2021,5,Yes,Offline,15167
+STD0148,Yvonne Mclaughlin,Male,Pakistan,Australia,ANU,Medicine,2022,1,Yes,Offline,16504
+STD0149,Beth Porter,Female,China,Australia,University of Melbourne,Medicine,2019,2,Yes,Online,10804
+STD0150,Laura Carter,Other,Vietnam,Netherlands,Erasmus University,Sciences,2022,5,No,Offline,19893
+STD0151,Marc Harmon,Other,Vietnam,UK,University of Cambridge,Sciences,2020,3,Yes,Offline,21624
+STD0152,Alexis Blanchard,Male,Nepal,Germany,Heidelberg University,Sciences,2018,3,No,Online,52248
+STD0153,David Smith,Female,Nepal,Japan,Kyoto University,Engineering,2024,5,Yes,Offline,24824
+STD0154,Jodi Maxwell,Male,Vietnam,Canada,University of Toronto,Sciences,2024,3,Yes,Online,6282
+STD0155,Ryan Armstrong,Female,Nigeria,Netherlands,University of Amsterdam,Medicine,2020,3,No,Offline,60755
+STD0156,Rebecca Thompson,Male,Pakistan,USA,Stanford University,Computer Science,2020,1,No,Offline,26514
+STD0157,Gregory Floyd,Female,China,France,Sorbonne University,Medicine,2020,4,Yes,Online,15144
+STD0158,Shawn Good,Other,Bangladesh,France,Sorbonne University,Business,2023,4,No,Online,33763
+STD0159,James Sutton,Female,Brazil,Canada,University of Toronto,Computer Science,2019,2,Yes,Online,7528
+STD0160,Megan Escobar,Other,Brazil,UK,Imperial College London,Engineering,2020,5,Yes,Offline,10054
+STD0161,Ryan Bush,Other,China,Canada,University of British Columbia,Medicine,2021,1,No,Offline,54326
+STD0162,Wendy Roberts,Other,Nigeria,Netherlands,Erasmus University,Arts,2024,4,Yes,Online,15140
+STD0163,Ian Weber,Female,Vietnam,Australia,ANU,Sciences,2024,3,No,Offline,20620
+STD0164,Richard Nichols,Other,Nigeria,Canada,McGill University,Engineering,2021,3,Yes,Online,14340
+STD0165,Sheryl Barnett,Other,Nepal,Canada,McGill University,Sciences,2019,4,Yes,Online,19782
+STD0166,Clayton Perez,Female,Pakistan,USA,MIT,Engineering,2022,3,Yes,Offline,7674
+STD0167,Erica Green,Male,Pakistan,Australia,University of Melbourne,Computer Science,2024,3,Yes,Online,6255
+STD0168,Brian Gutierrez,Other,Brazil,Netherlands,Erasmus University,Medicine,2021,4,Yes,Online,5622
+STD0169,Anne Young,Male,Brazil,Australia,University of Melbourne,Education,2024,3,Yes,Offline,8992
+STD0170,Karen Garcia,Male,India,Australia,ANU,Sciences,2018,4,Yes,Online,28545
+STD0171,Alyssa Cervantes,Other,China,Germany,Heidelberg University,Engineering,2020,2,No,Online,53540
+STD0172,Frank Mccoy,Female,Nepal,France,Sorbonne University,Engineering,2024,4,Yes,Offline,17232
+STD0173,Eric Smith,Female,Brazil,USA,MIT,Business,2019,1,No,Online,12905
+STD0174,Jocelyn Rocha,Other,Pakistan,France,Sciences Po,Medicine,2021,4,Yes,Online,7067
+STD0175,Stephen Wallace,Male,Vietnam,USA,MIT,Law,2024,2,Yes,Offline,15160
+STD0176,Ronald Weaver,Other,Bangladesh,Netherlands,University of Amsterdam,Engineering,2019,3,No,Online,66740
+STD0177,Michael Gutierrez,Female,Pakistan,Germany,TU Munich,Computer Science,2021,4,No,Offline,22243
+STD0178,Tammy Sanders,Male,Vietnam,Netherlands,University of Amsterdam,Arts,2023,4,Yes,Offline,24741
+STD0179,Brad Jones,Male,China,Germany,Heidelberg University,Business,2020,3,No,Offline,49493
+STD0180,Ryan Wells,Female,Bangladesh,Canada,University of British Columbia,Sciences,2021,1,No,Offline,27993
+STD0181,Misty Graham,Female,India,UK,Imperial College London,Education,2022,2,Yes,Online,24908
+STD0182,Sean Macias,Male,Vietnam,USA,Harvard University,Business,2024,3,No,Offline,47174
+STD0183,Monique Hoffman,Female,India,Canada,University of British Columbia,Sciences,2020,4,Yes,Online,22349
+STD0184,Diane Jones,Male,Pakistan,Japan,Kyoto University,Arts,2018,1,Yes,Offline,21965
+STD0185,Justin Holt,Other,Bangladesh,UK,University of Cambridge,Arts,2021,2,No,Offline,23118
+STD0186,Keith Mcdonald,Male,Nepal,Canada,University of Toronto,Sciences,2023,4,Yes,Offline,26883
+STD0187,Rita Rhodes,Female,Pakistan,UK,Imperial College London,Arts,2024,2,Yes,Offline,21670
+STD0188,Clifford Young,Male,Nigeria,UK,University of Oxford,Medicine,2024,4,Yes,Offline,23154
+STD0189,Ryan Gibson,Other,Pakistan,Netherlands,Erasmus University,Medicine,2018,1,No,Offline,56984
+STD0190,Tammy Wolf,Male,Vietnam,Japan,Kyoto University,Business,2020,1,No,Offline,54571
+STD0191,Ralph Dean,Male,Pakistan,Canada,University of British Columbia,Medicine,2021,5,Yes,Online,21977
+STD0192,Katherine Long,Female,China,Germany,TU Munich,Medicine,2023,2,No,Offline,65439
+STD0193,Dennis Edwards,Male,Nepal,Germany,TU Munich,Arts,2023,3,Yes,Online,24392
+STD0194,Erika Aguilar,Other,China,Canada,University of British Columbia,Computer Science,2018,1,Yes,Online,26019
+STD0195,Shane Davidson,Other,Brazil,Australia,University of Sydney,Education,2023,1,No,Offline,52068
+STD0196,Jacob Bowman,Female,Brazil,Netherlands,Delft University,Education,2021,1,Yes,Online,19404
+STD0197,Kelli Simpson,Female,Bangladesh,Netherlands,University of Amsterdam,Law,2022,2,No,Offline,58116
+STD0198,Sydney Franklin,Other,Pakistan,Japan,University of Tokyo,Computer Science,2022,1,No,Online,40570
+STD0199,Robert Harris,Male,Nepal,Germany,Heidelberg University,Law,2018,1,No,Offline,66633
+STD0200,David Walker,Other,Bangladesh,Australia,University of Melbourne,Computer Science,2023,3,Yes,Online,21327
+STD0201,Amber Hudson,Male,Vietnam,Netherlands,University of Amsterdam,Sciences,2018,4,No,Online,24099
+STD0202,David Johnson,Female,Pakistan,USA,Harvard University,Arts,2022,4,No,Online,65520
+STD0203,Kristy Mullen,Other,Nepal,Japan,University of Tokyo,Arts,2020,4,No,Online,36252
+STD0204,Jo Holmes,Male,India,Australia,ANU,Arts,2021,5,No,Offline,64087
+STD0205,Dana Griffin,Female,Nepal,Canada,University of Toronto,Education,2024,3,No,Online,23045
+STD0206,Tammy Welch,Male,Bangladesh,USA,Harvard University,Engineering,2023,3,No,Offline,19760
+STD0207,Nicholas Lyons,Male,China,France,Sciences Po,Computer Science,2021,5,No,Offline,43247
+STD0208,Erica Johnson,Female,Vietnam,Germany,Heidelberg University,Engineering,2020,1,No,Offline,62216
+STD0209,Jamie Gibson,Other,India,Netherlands,University of Amsterdam,Law,2018,5,No,Online,44356
+STD0210,Sheila Beck,Male,Bangladesh,Canada,University of British Columbia,Law,2022,1,Yes,Online,19451
+STD0211,Nancy Chan,Other,Pakistan,Japan,University of Tokyo,Education,2019,4,No,Online,56253
+STD0212,Jacob Kennedy,Other,China,Australia,University of Sydney,Computer Science,2021,5,No,Offline,21349
+STD0213,Aaron Hudson,Other,Vietnam,France,Sciences Po,Computer Science,2024,3,No,Online,26155
+STD0214,Joshua Johnson,Female,Brazil,Germany,TU Munich,Arts,2023,2,No,Offline,41444
+STD0215,Tamara Scott,Other,Pakistan,Germany,Heidelberg University,Business,2023,5,No,Offline,63633
+STD0216,Stacy Mcfarland DVM,Female,Pakistan,Canada,McGill University,Engineering,2023,1,No,Offline,52989
+STD0217,Kari Lewis,Other,Brazil,Netherlands,Delft University,Law,2020,5,No,Online,17158
+STD0218,Jessica Hanson,Other,Nigeria,Australia,University of Melbourne,Law,2019,1,Yes,Offline,15823
+STD0219,Mia Gilbert,Male,Vietnam,UK,Imperial College London,Medicine,2022,2,No,Offline,41290
+STD0220,Julie Levine,Other,Nigeria,Germany,Heidelberg University,Arts,2018,1,Yes,Online,10736
+STD0221,Gary Freeman,Female,Bangladesh,Canada,University of Toronto,Education,2019,3,Yes,Online,14777
+STD0222,Alan White,Other,Nepal,France,École Polytechnique,Sciences,2022,5,No,Online,65775
+STD0223,Cynthia White,Female,Vietnam,Germany,TU Munich,Business,2019,4,No,Online,10923
+STD0224,Cheryl Jones,Male,Pakistan,Germany,LMU Munich,Law,2022,4,No,Offline,15684
+STD0225,Miranda Rose,Female,Bangladesh,UK,University of Oxford,Medicine,2020,2,Yes,Offline,17568
+STD0226,Pamela Campos,Female,Nigeria,Netherlands,University of Amsterdam,Computer Science,2022,5,Yes,Offline,26419
+STD0227,Daniel Rogers,Female,Pakistan,Australia,University of Melbourne,Business,2020,2,No,Offline,55238
+STD0228,Kristen Smith,Male,Nepal,Germany,Heidelberg University,Law,2019,4,Yes,Offline,29501
+STD0229,Daniel Hart,Other,Pakistan,Japan,Osaka University,Sciences,2024,2,Yes,Online,22219
+STD0230,Brittany Camacho,Male,Vietnam,France,Sorbonne University,Business,2024,5,Yes,Online,10391
+STD0231,Debra Richardson,Other,Pakistan,Netherlands,Delft University,Law,2022,4,Yes,Offline,6823
+STD0232,Brad Jacobson,Female,Vietnam,Canada,University of British Columbia,Education,2022,1,No,Offline,57400
+STD0233,Diane Williams,Other,India,Japan,Kyoto University,Engineering,2019,5,Yes,Online,18883
+STD0234,Timothy Neal,Male,Pakistan,UK,Imperial College London,Engineering,2021,1,No,Offline,21795
+STD0235,Mary Rowland MD,Female,China,Japan,Kyoto University,Education,2024,4,No,Online,54743
+STD0236,Jeffrey Marshall,Other,China,France,Sorbonne University,Medicine,2021,5,Yes,Online,5113
+STD0237,Adam Cox,Other,India,Germany,Heidelberg University,Education,2021,2,Yes,Offline,16342
+STD0238,Tara Lewis,Male,China,Germany,TU Munich,Business,2024,4,Yes,Online,11752
+STD0239,Sharon Vincent,Female,Nepal,UK,Imperial College London,Engineering,2022,1,Yes,Online,18181
+STD0240,Gabriella Newman,Male,Vietnam,Australia,University of Sydney,Law,2019,5,No,Online,63463
+STD0241,Johnny Barton,Male,Pakistan,France,Sorbonne University,Arts,2023,5,Yes,Offline,14846
+STD0242,Christopher Ramirez,Other,Brazil,USA,Stanford University,Medicine,2023,4,No,Online,32571
+STD0243,Brianna Fuller,Female,Bangladesh,France,Sciences Po,Education,2019,3,No,Online,59441
+STD0244,Eric Gomez,Other,Vietnam,Australia,University of Melbourne,Arts,2019,4,Yes,Offline,18648
+STD0245,David Brennan,Male,China,Japan,University of Tokyo,Arts,2020,1,No,Offline,16059
+STD0246,Adam Mejia,Other,Nigeria,USA,MIT,Education,2022,5,Yes,Online,11165
+STD0247,John Fields,Female,Nigeria,Netherlands,Delft University,Computer Science,2018,2,Yes,Online,29473
+STD0248,William Campbell,Female,Vietnam,Australia,University of Sydney,Law,2019,5,No,Offline,34947
+STD0249,Philip Reid,Female,Vietnam,France,École Polytechnique,Arts,2022,4,No,Online,62613
+STD0250,Theresa Kane,Female,Vietnam,France,Sorbonne University,Computer Science,2021,1,Yes,Online,5531
+STD0251,James Edwards DDS,Male,Brazil,Japan,Kyoto University,Medicine,2020,2,No,Online,42722
+STD0252,Jason Lopez,Female,Pakistan,Germany,Heidelberg University,Sciences,2019,3,Yes,Online,28603
+STD0253,Russell Morris,Other,Vietnam,Canada,University of British Columbia,Engineering,2018,1,Yes,Online,18513
+STD0254,Kristin Howell,Male,China,Australia,University of Melbourne,Medicine,2019,5,No,Offline,13961
+STD0255,Joseph Lopez,Other,Vietnam,Netherlands,Delft University,Engineering,2022,4,Yes,Online,22347
+STD0256,Laurie Pennington,Male,Brazil,Germany,TU Munich,Education,2018,1,Yes,Online,11289
+STD0257,Carol Mccarthy,Male,Brazil,France,École Polytechnique,Education,2020,4,No,Online,55694
+STD0258,Kristi Bauer,Other,Nigeria,Germany,LMU Munich,Business,2024,1,Yes,Offline,17427
+STD0259,Renee Jacobs,Other,Bangladesh,Netherlands,Delft University,Engineering,2019,1,No,Offline,52264
+STD0260,Brenda Weber,Male,Pakistan,UK,Imperial College London,Engineering,2019,5,No,Offline,13051
+STD0261,Connie Bradley,Male,Nepal,Germany,LMU Munich,Engineering,2024,3,Yes,Online,24235
+STD0262,Briana Smith,Male,China,Japan,University of Tokyo,Arts,2022,2,No,Offline,35155
+STD0263,Emma Garza,Male,China,UK,Imperial College London,Computer Science,2018,4,Yes,Online,16160
+STD0264,Kenneth Goodwin,Female,Bangladesh,France,Sorbonne University,Arts,2021,2,No,Offline,38301
+STD0265,Jack Huerta,Male,China,Japan,University of Tokyo,Arts,2023,1,Yes,Offline,10053
+STD0266,Randy Anderson,Female,Bangladesh,Canada,University of British Columbia,Education,2020,1,Yes,Online,15101
+STD0267,Ashley Michael,Male,Vietnam,France,École Polytechnique,Business,2018,2,No,Offline,46502
+STD0268,Barbara Blankenship,Female,Bangladesh,UK,University of Oxford,Business,2022,1,No,Offline,10808
+STD0269,Corey Thompson,Other,Brazil,Japan,Kyoto University,Business,2022,2,Yes,Offline,10554
+STD0270,Adam Smith,Female,China,Germany,Heidelberg University,Arts,2019,1,Yes,Offline,14042
+STD0271,Mario Gardner,Female,Bangladesh,Germany,Heidelberg University,Business,2020,2,No,Online,40006
+STD0272,Dr. Elizabeth Vaughn,Female,Nepal,Canada,McGill University,Engineering,2020,5,No,Offline,38850
+STD0273,Chelsea Levy,Female,Pakistan,Japan,Osaka University,Medicine,2020,5,Yes,Offline,15295
+STD0274,Carl Payne,Other,China,Japan,Kyoto University,Arts,2023,4,Yes,Offline,17322
+STD0275,Joseph Flores,Other,Brazil,Japan,Kyoto University,Business,2019,5,Yes,Online,28829
+STD0276,Natasha Mcdonald,Other,Vietnam,Australia,ANU,Arts,2018,4,No,Online,51506
+STD0277,Chris Welch MD,Other,Brazil,Australia,ANU,Medicine,2021,4,Yes,Offline,24593
+STD0278,Sarah Brooks,Other,Vietnam,Japan,Osaka University,Education,2018,3,Yes,Online,13134
+STD0279,Dawn Carter,Other,Pakistan,Canada,University of British Columbia,Engineering,2023,4,No,Offline,16943
+STD0280,Alexandra Morrison,Other,India,UK,University of Cambridge,Law,2023,5,Yes,Offline,17259
+STD0281,Shelley Brown,Female,Bangladesh,Netherlands,Erasmus University,Medicine,2018,4,Yes,Offline,18630
+STD0282,Christopher Johnson,Female,Nepal,UK,Imperial College London,Medicine,2020,3,No,Online,44151
+STD0283,Pamela Brown,Female,Vietnam,France,École Polytechnique,Business,2023,4,No,Online,29678
+STD0284,Lee Romero,Other,India,UK,University of Oxford,Computer Science,2018,2,Yes,Online,23084
+STD0285,Jamie Martin,Female,China,France,Sciences Po,Education,2019,4,Yes,Online,25987
+STD0286,Eric Griffin,Female,Bangladesh,Japan,University of Tokyo,Law,2022,4,No,Online,56185
+STD0287,Brandon Greene,Other,Nigeria,Australia,ANU,Business,2018,5,Yes,Offline,15681
+STD0288,Cassidy Thomas,Other,Nigeria,Netherlands,Delft University,Arts,2024,4,No,Offline,50062
+STD0289,Michelle Phillips,Female,Bangladesh,UK,University of Cambridge,Computer Science,2022,2,No,Online,54047
+STD0290,Edwin Robinson,Female,China,France,Sorbonne University,Law,2018,2,No,Online,43477
+STD0291,Amanda Harrington,Other,Bangladesh,Japan,Osaka University,Medicine,2021,4,Yes,Offline,25824
+STD0292,Matthew Williams,Male,China,Canada,McGill University,Arts,2019,3,No,Online,66722
+STD0293,Juan Lee,Male,Pakistan,USA,MIT,Medicine,2024,4,No,Offline,54872
+STD0294,Amy Mendoza,Female,Vietnam,Japan,Osaka University,Sciences,2019,1,Yes,Online,14571
+STD0295,Jose Ramos,Male,India,Germany,TU Munich,Arts,2024,4,No,Online,47533
+STD0296,Lauren Ruiz,Other,Nepal,Germany,LMU Munich,Computer Science,2024,1,No,Online,37862
+STD0297,Gabrielle Glenn,Female,Nepal,Australia,ANU,Engineering,2020,3,Yes,Offline,8846
+STD0298,Michael Ramirez,Other,Nigeria,Australia,University of Sydney,Computer Science,2022,4,Yes,Online,11770
+STD0299,Stephen Harris,Other,Nigeria,USA,Stanford University,Computer Science,2020,5,Yes,Offline,28070
+STD0300,Billy Burton,Other,Brazil,Germany,LMU Munich,Arts,2023,1,Yes,Offline,6942
+STD0301,Judy Alvarez,Male,Brazil,Canada,University of British Columbia,Medicine,2019,3,Yes,Offline,21038
+STD0302,Ashley Michael,Female,China,Germany,LMU Munich,Education,2021,1,Yes,Offline,21895
+STD0303,Jesse Barrett,Female,Brazil,France,École Polytechnique,Sciences,2022,1,Yes,Offline,25802
+STD0304,Molly Reeves,Male,Pakistan,UK,Imperial College London,Education,2021,2,No,Offline,31159
+STD0305,Brittany Anderson,Other,Brazil,France,Sciences Po,Medicine,2024,4,No,Online,13010
+STD0306,Patricia Berry,Male,Nepal,Netherlands,Delft University,Business,2021,4,Yes,Offline,11629
+STD0307,Julia Sloan,Male,China,Germany,TU Munich,Arts,2023,3,No,Online,34369
+STD0308,Patrick Craig,Other,China,USA,MIT,Arts,2023,2,No,Online,56117
+STD0309,Seth Hall,Male,Nepal,USA,Harvard University,Sciences,2019,5,Yes,Offline,5304
+STD0310,Kristin Gonzales,Other,India,France,Sorbonne University,Education,2019,4,Yes,Online,17552
+STD0311,Keith Medina,Female,Nepal,UK,University of Oxford,Computer Science,2020,2,No,Online,52046
+STD0312,Lydia Bailey,Other,China,UK,Imperial College London,Engineering,2023,2,No,Offline,57345
+STD0313,Haley Perez,Male,Nigeria,Canada,McGill University,Sciences,2018,1,Yes,Online,24319
+STD0314,Jose Norman,Male,Bangladesh,France,École Polytechnique,Computer Science,2019,3,Yes,Online,23133
+STD0315,Joseph Anderson,Male,Brazil,USA,Stanford University,Arts,2022,5,Yes,Offline,14684
+STD0316,Frederick Clark,Male,India,Australia,ANU,Education,2019,4,Yes,Online,16832
+STD0317,John Wright,Female,Pakistan,Canada,McGill University,Education,2022,2,No,Online,11093
+STD0318,Troy Jacobs,Male,Nepal,USA,MIT,Law,2018,4,No,Offline,37759
+STD0319,Robert Cobb,Female,Bangladesh,UK,Imperial College London,Medicine,2018,3,Yes,Online,10091
+STD0320,Ryan Garcia,Female,Pakistan,Japan,Osaka University,Business,2023,4,Yes,Online,13011
+STD0321,Lynn Collins,Other,Nepal,Japan,University of Tokyo,Sciences,2022,1,No,Online,17827
+STD0322,Sabrina Carter,Male,India,Canada,University of British Columbia,Engineering,2021,3,No,Online,34370
+STD0323,Jack Riddle,Male,China,Germany,LMU Munich,Business,2020,4,No,Online,27232
+STD0324,Heather Marquez,Male,Nepal,Netherlands,University of Amsterdam,Computer Science,2021,5,Yes,Offline,10154
+STD0325,Madeline Robertson,Male,Brazil,UK,Imperial College London,Business,2023,5,Yes,Online,5402
+STD0326,Seth Johnson,Female,Nigeria,USA,MIT,Computer Science,2019,2,Yes,Offline,12356
+STD0327,Sara Kim,Female,Pakistan,Australia,ANU,Computer Science,2024,1,No,Online,42901
+STD0328,Ryan Weaver,Female,India,Canada,University of Toronto,Engineering,2018,4,No,Offline,31449
+STD0329,Emily Hamilton,Male,Nepal,Netherlands,Delft University,Computer Science,2020,5,No,Online,40403
+STD0330,Vincent Smith,Male,Pakistan,Netherlands,Delft University,Law,2018,4,Yes,Online,22745
+STD0331,Chase Abbott,Other,Pakistan,USA,MIT,Engineering,2021,3,Yes,Online,22360
+STD0332,Aaron Jenkins,Male,Nigeria,Japan,Kyoto University,Engineering,2023,3,Yes,Online,12584
+STD0333,Connie Pennington,Other,Bangladesh,France,École Polytechnique,Business,2018,5,Yes,Offline,7452
+STD0334,Rebecca Rose,Male,India,Japan,Osaka University,Medicine,2020,3,No,Offline,55922
+STD0335,Andrea Smith,Male,Pakistan,France,École Polytechnique,Arts,2018,2,Yes,Online,10092
+STD0336,Larry Collins,Female,Nepal,Canada,McGill University,Sciences,2021,1,No,Online,39616
+STD0337,Ryan Hammond,Male,Brazil,Netherlands,University of Amsterdam,Business,2019,3,Yes,Online,15741
+STD0338,Charles Jenkins,Female,China,UK,Imperial College London,Law,2021,5,Yes,Offline,13525
+STD0339,Michael Farley,Other,China,USA,MIT,Sciences,2023,5,Yes,Online,20140
+STD0340,Dillon Vasquez,Male,Nepal,Canada,University of Toronto,Engineering,2024,2,Yes,Online,18126
+STD0341,Randy Mcpherson,Male,Pakistan,UK,Imperial College London,Arts,2018,1,Yes,Offline,9220
+STD0342,Amy Sims,Female,Nepal,France,Sorbonne University,Engineering,2018,2,No,Offline,42514
+STD0343,Wayne Holloway,Male,India,Japan,Osaka University,Education,2020,2,Yes,Offline,14170
+STD0344,Jason Hernandez,Other,Vietnam,Canada,University of Toronto,Law,2020,4,No,Offline,13996
+STD0345,Steven Coleman,Female,Nepal,Germany,Heidelberg University,Medicine,2019,5,Yes,Online,17533
+STD0346,Jessica Gonzalez,Female,Pakistan,Netherlands,Erasmus University,Sciences,2022,5,No,Offline,27723
+STD0347,Justin Valdez,Male,China,USA,MIT,Law,2024,3,Yes,Offline,22348
+STD0348,Daniel Knapp,Male,Pakistan,Australia,University of Melbourne,Business,2023,2,No,Online,60072
+STD0349,Carl Moore,Male,Nigeria,Japan,Kyoto University,Medicine,2019,5,No,Offline,69898
+STD0350,Jeffrey Hayes,Other,India,France,Sciences Po,Medicine,2019,4,No,Online,42141
+STD0351,Angela Taylor,Other,India,UK,University of Oxford,Law,2019,1,No,Online,31740
+STD0352,Jennifer Watson,Female,Nigeria,Canada,McGill University,Medicine,2018,1,Yes,Online,8634
+STD0353,Rodney Potter,Other,Pakistan,UK,University of Cambridge,Education,2018,3,No,Offline,18942
+STD0354,Corey Bishop,Other,China,Japan,Osaka University,Sciences,2020,2,No,Online,53616
+STD0355,Jessica Smith,Male,China,Japan,Kyoto University,Arts,2019,1,No,Online,21932
+STD0356,Ryan Hunt,Female,Pakistan,Australia,University of Sydney,Business,2019,3,Yes,Online,16364
+STD0357,Curtis Giles,Other,Pakistan,Canada,University of British Columbia,Business,2023,3,No,Online,27380
+STD0358,Matthew Brown,Female,Nigeria,Australia,University of Sydney,Business,2020,1,Yes,Online,17646
+STD0359,Kevin Savage,Female,Vietnam,Japan,University of Tokyo,Education,2021,3,No,Online,64316
+STD0360,Amy Alexander,Male,Vietnam,Australia,University of Melbourne,Sciences,2024,1,No,Online,30887
+STD0361,Robert Perez,Male,Brazil,UK,University of Oxford,Computer Science,2021,2,Yes,Online,16073
+STD0362,Leonard Hall,Other,Vietnam,USA,MIT,Medicine,2021,2,Yes,Online,15849
+STD0363,Deborah Sparks,Other,Nigeria,Australia,ANU,Arts,2020,3,Yes,Online,6626
+STD0364,Casey Garcia,Female,Bangladesh,Netherlands,Delft University,Engineering,2018,4,Yes,Offline,26693
+STD0365,William Chandler,Male,Vietnam,Australia,University of Melbourne,Engineering,2019,3,Yes,Offline,8784
+STD0366,Jason Fox,Other,Brazil,Japan,Kyoto University,Sciences,2020,1,No,Online,34315
+STD0367,Matthew Hughes,Male,Bangladesh,France,Sorbonne University,Sciences,2020,4,No,Offline,24827
+STD0368,Eric Grant,Male,Brazil,USA,Harvard University,Business,2023,3,No,Online,46280
+STD0369,Adrian Davis,Other,India,Japan,Osaka University,Education,2023,4,Yes,Offline,14792
+STD0370,Lindsay Jenkins,Other,Nepal,Japan,Osaka University,Engineering,2022,5,Yes,Online,29811
+STD0371,Albert Fowler,Male,Vietnam,Canada,University of Toronto,Law,2019,1,No,Online,54769
+STD0372,Bonnie Burton,Other,Bangladesh,Australia,University of Sydney,Medicine,2020,3,Yes,Online,17717
+STD0373,Troy Holland,Male,Bangladesh,France,École Polytechnique,Sciences,2024,5,No,Online,37160
+STD0374,Dawn Patton,Male,China,Canada,University of British Columbia,Business,2022,1,No,Offline,67533
+STD0375,Brent Edwards,Other,Bangladesh,Germany,Heidelberg University,Sciences,2022,4,Yes,Online,14024
+STD0376,Jennifer Vasquez,Male,Bangladesh,Canada,University of British Columbia,Education,2021,3,Yes,Online,29436
+STD0377,Michael Potter,Female,Vietnam,Germany,Heidelberg University,Engineering,2024,3,No,Offline,65236
+STD0378,Tammie Moore,Female,Vietnam,UK,University of Oxford,Medicine,2023,4,No,Offline,57762
+STD0379,Ashley Gibson,Male,Bangladesh,UK,University of Oxford,Sciences,2024,4,No,Offline,63806
+STD0380,Amy Bailey,Other,India,Canada,University of Toronto,Arts,2022,4,Yes,Online,10693
+STD0381,Jesse Roberts,Male,Nigeria,Australia,University of Melbourne,Law,2021,1,No,Online,27955
+STD0382,Johnny Camacho,Other,Pakistan,Netherlands,Erasmus University,Education,2018,1,Yes,Offline,21016
+STD0383,Phillip Bennett,Female,Vietnam,Canada,McGill University,Computer Science,2019,3,Yes,Offline,5899
+STD0384,James White,Male,Bangladesh,USA,Harvard University,Law,2023,2,Yes,Offline,26351
+STD0385,John Walker,Female,Bangladesh,USA,Stanford University,Engineering,2019,2,Yes,Online,13270
+STD0386,Tonya Smith,Female,Brazil,Germany,Heidelberg University,Education,2021,3,Yes,Offline,14900
+STD0387,Jeffrey Chang,Other,Bangladesh,UK,University of Oxford,Computer Science,2023,5,No,Offline,54853
+STD0388,Marc Daniels,Female,Nepal,Netherlands,Delft University,Computer Science,2023,3,No,Offline,52999
+STD0389,Amy Keller,Male,Brazil,Australia,University of Melbourne,Law,2024,5,No,Offline,54614
+STD0390,James Bailey,Female,China,USA,Stanford University,Sciences,2020,4,No,Offline,58282
+STD0391,Angela Escobar,Other,India,Australia,ANU,Law,2022,4,No,Offline,65405
+STD0392,Douglas Smith,Female,China,Canada,McGill University,Business,2019,3,Yes,Offline,26444
+STD0393,Sheri Flores,Other,Nepal,Australia,ANU,Law,2024,3,No,Offline,34358
+STD0394,Kyle Wolf,Female,Brazil,Germany,Heidelberg University,Business,2018,5,Yes,Offline,11374
+STD0395,Robert Baker,Female,Nepal,Japan,Osaka University,Arts,2018,2,Yes,Online,16228
+STD0396,Scott Nguyen,Other,Bangladesh,Netherlands,Delft University,Computer Science,2019,1,No,Offline,51355
+STD0397,Andrea Ward,Male,China,France,Sciences Po,Engineering,2021,3,Yes,Online,23883
+STD0398,Christina Diaz DDS,Other,China,Netherlands,Delft University,Medicine,2021,4,No,Offline,41286
+STD0399,Matthew Porter,Other,Bangladesh,USA,Harvard University,Law,2020,1,No,Online,11174
+STD0400,Danielle Garcia,Female,India,Australia,University of Melbourne,Computer Science,2019,1,No,Offline,20945
+STD0401,Melissa Peters,Female,Nepal,USA,MIT,Arts,2023,5,No,Offline,68194
+STD0402,Caitlin Guerrero,Male,China,France,École Polytechnique,Computer Science,2019,4,Yes,Online,12350
+STD0403,Brenda Kelley,Other,China,Australia,University of Sydney,Engineering,2022,2,Yes,Offline,28301
+STD0404,Carol Fry,Other,India,Japan,Osaka University,Arts,2022,1,Yes,Online,26416
+STD0405,Dawn Huber,Female,India,USA,Stanford University,Business,2021,4,Yes,Offline,20545
+STD0406,Todd Lewis,Female,China,Australia,University of Sydney,Engineering,2021,1,No,Online,37448
+STD0407,Matthew Kent,Male,Nepal,UK,University of Cambridge,Business,2021,2,Yes,Offline,22142
+STD0408,Michael Mitchell,Female,Nigeria,France,Sciences Po,Education,2019,1,No,Online,55102
+STD0409,Dennis Carter,Male,Vietnam,France,Sorbonne University,Engineering,2023,1,Yes,Offline,9887
+STD0410,Karen Jones,Female,Nepal,UK,Imperial College London,Business,2023,2,No,Offline,27309
+STD0411,Tara Freeman,Male,Vietnam,USA,Harvard University,Medicine,2024,3,No,Offline,37918
+STD0412,Donna Kerr,Male,Nepal,UK,University of Oxford,Engineering,2023,2,No,Offline,68623
+STD0413,Laura Bennett,Female,Vietnam,Germany,LMU Munich,Business,2024,3,Yes,Online,18132
+STD0414,Jeffrey York,Other,Bangladesh,Netherlands,University of Amsterdam,Education,2024,4,No,Online,17409
+STD0415,Carlos Woodward,Female,China,USA,Harvard University,Business,2022,4,No,Online,50063
+STD0416,Ryan Sanford,Other,Bangladesh,France,Sciences Po,Engineering,2024,2,No,Offline,17401
+STD0417,Robin Bailey,Female,Bangladesh,Netherlands,Delft University,Business,2023,3,Yes,Online,26949
+STD0418,Shawn Smith,Female,Pakistan,UK,University of Cambridge,Law,2020,4,Yes,Online,5381
+STD0419,Joshua Stone,Male,China,Netherlands,University of Amsterdam,Medicine,2024,4,No,Online,31685
+STD0420,Karen Atkins,Other,Brazil,USA,Stanford University,Law,2023,4,No,Online,15166
+STD0421,Steven Williams,Male,Vietnam,Netherlands,Erasmus University,Sciences,2024,4,No,Offline,17779
+STD0422,Linda Henry,Female,Vietnam,USA,Harvard University,Education,2018,5,Yes,Online,24798
+STD0423,Jordan Chavez,Female,Brazil,Australia,University of Sydney,Sciences,2020,1,Yes,Offline,15878
+STD0424,Dominique Wise,Male,Vietnam,France,Sciences Po,Sciences,2018,2,Yes,Offline,16637
+STD0425,Jasmine Morton,Male,Brazil,France,Sciences Po,Business,2019,4,Yes,Offline,8504
+STD0426,William Davis,Female,Brazil,Australia,University of Melbourne,Business,2019,4,Yes,Offline,8531
+STD0427,Erin Morgan,Female,Bangladesh,USA,Stanford University,Business,2021,5,Yes,Offline,5142
+STD0428,Jasmine Norman,Other,India,Japan,Osaka University,Sciences,2024,2,Yes,Online,8393
+STD0429,Rebecca Vazquez,Female,Bangladesh,France,Sciences Po,Education,2022,2,No,Offline,32469
+STD0430,Tina Dennis,Female,Brazil,Netherlands,Delft University,Medicine,2022,5,No,Offline,56653
+STD0431,Mary Caldwell,Other,Nigeria,Australia,University of Melbourne,Arts,2020,2,Yes,Offline,28276
+STD0432,Steven Snyder,Other,Nepal,France,Sciences Po,Sciences,2022,4,No,Offline,62973
+STD0433,Calvin Pruitt,Male,India,UK,University of Oxford,Education,2018,1,Yes,Offline,29582
+STD0434,Amy Williams,Male,China,Germany,LMU Munich,Arts,2024,1,No,Online,59387
+STD0435,Andrew Wilkinson,Other,India,France,École Polytechnique,Business,2024,5,Yes,Offline,12785
+STD0436,Maria Taylor,Female,Brazil,USA,MIT,Education,2024,3,Yes,Online,29368
+STD0437,Mr. James Nunez,Male,Brazil,Australia,University of Sydney,Sciences,2023,3,Yes,Online,14639
+STD0438,Daniel Martinez,Male,Vietnam,Canada,University of British Columbia,Business,2019,5,Yes,Offline,6331
+STD0439,Janet Walter,Male,Bangladesh,Germany,LMU Munich,Arts,2019,5,No,Online,31663
+STD0440,Zachary Jordan,Female,Vietnam,Canada,University of Toronto,Medicine,2022,1,No,Offline,61767
+STD0441,Ronnie Welch,Other,Pakistan,UK,Imperial College London,Computer Science,2019,2,Yes,Online,18629
+STD0442,Jennifer Franklin,Male,Bangladesh,UK,University of Cambridge,Law,2023,3,No,Offline,29239
+STD0443,Erin Fletcher,Male,Nigeria,Netherlands,Erasmus University,Engineering,2023,3,No,Online,69277
+STD0444,Tammy Munoz,Female,Nigeria,USA,Stanford University,Computer Science,2024,1,No,Offline,45404
+STD0445,Judith Adams,Other,Brazil,USA,Stanford University,Computer Science,2024,5,No,Offline,12873
+STD0446,Jennifer Zavala,Male,Brazil,Australia,ANU,Business,2019,5,Yes,Online,11906
+STD0447,Angela Taylor,Other,Nigeria,Japan,University of Tokyo,Law,2024,4,Yes,Online,5778
+STD0448,Andrew Griffith,Male,Vietnam,France,Sorbonne University,Business,2018,2,No,Online,47680
+STD0449,Donald Beck,Female,Nigeria,Germany,Heidelberg University,Education,2023,4,No,Offline,11106
+STD0450,Tracey Gould,Other,Bangladesh,UK,Imperial College London,Engineering,2023,5,Yes,Online,27966
+STD0451,Renee Kim,Female,Nepal,France,Sciences Po,Business,2024,3,Yes,Offline,19341
+STD0452,Laura Stevens,Female,Bangladesh,Japan,Osaka University,Engineering,2019,5,Yes,Online,29469
+STD0453,James White,Female,Bangladesh,Germany,LMU Munich,Medicine,2023,3,Yes,Online,9038
+STD0454,Maria Wallace,Other,India,USA,Stanford University,Education,2022,1,No,Online,59040
+STD0455,Leon Perez,Male,Pakistan,Australia,ANU,Medicine,2019,2,No,Online,17511
+STD0456,Robert Patterson,Other,China,USA,Stanford University,Sciences,2022,1,No,Online,26429
+STD0457,Rachel Levine,Female,Nepal,Australia,University of Sydney,Sciences,2020,2,Yes,Online,14343
+STD0458,Heather Clark,Female,Nepal,Australia,ANU,Sciences,2020,5,No,Online,47064
+STD0459,Tony Chavez,Male,Pakistan,France,École Polytechnique,Medicine,2020,2,Yes,Offline,14066
+STD0460,Jeremiah Fisher,Female,Pakistan,Canada,University of British Columbia,Computer Science,2021,4,No,Offline,41914
+STD0461,Jeremy Schultz,Female,Nepal,Canada,University of British Columbia,Business,2024,2,Yes,Offline,29036
+STD0462,Wanda Dillon,Other,Nepal,UK,University of Oxford,Engineering,2022,4,Yes,Online,23074
+STD0463,Christopher Kane,Female,Brazil,Netherlands,Erasmus University,Medicine,2021,2,No,Online,40454
+STD0464,Deborah Bentley,Other,Nepal,Japan,Kyoto University,Engineering,2019,5,Yes,Online,19621
+STD0465,Michelle Walters,Other,China,Canada,University of British Columbia,Medicine,2023,4,No,Online,24340
+STD0466,Juan Walker,Female,Vietnam,Australia,University of Melbourne,Arts,2019,1,Yes,Offline,17717
+STD0467,Lori Rice,Other,Vietnam,Netherlands,Delft University,Engineering,2020,1,No,Offline,47921
+STD0468,James Fitzgerald,Female,China,Japan,Osaka University,Education,2022,1,No,Offline,69457
+STD0469,Kathryn Romero,Female,Nigeria,Japan,Kyoto University,Computer Science,2024,4,Yes,Online,19414
+STD0470,Michelle Anderson,Male,China,Australia,University of Melbourne,Arts,2019,2,Yes,Offline,24727
+STD0471,Todd Aguirre,Other,Nepal,Australia,ANU,Computer Science,2018,4,No,Offline,23808
+STD0472,Richard Williams,Male,China,Japan,University of Tokyo,Law,2019,5,Yes,Online,25628
+STD0473,Amanda Randolph,Female,India,Canada,University of Toronto,Medicine,2019,5,No,Online,67573
+STD0474,Lindsey Williams,Other,Brazil,UK,University of Oxford,Sciences,2021,4,Yes,Online,18460
+STD0475,Tonya Humphrey,Male,China,Canada,University of British Columbia,Arts,2023,3,No,Online,25061
+STD0476,Heidi Tate,Male,Bangladesh,Japan,University of Tokyo,Business,2019,5,No,Online,49682
+STD0477,Samantha Moody,Other,Nepal,Canada,McGill University,Engineering,2022,1,Yes,Offline,26606
+STD0478,Kevin Meyer,Other,China,USA,Stanford University,Education,2021,3,Yes,Offline,12519
+STD0479,Casey Richardson,Female,Vietnam,Japan,Kyoto University,Business,2019,3,No,Online,69643
+STD0480,Erika Fry,Female,Nepal,Germany,LMU Munich,Education,2019,1,Yes,Online,22031
+STD0481,Keith Coleman,Other,India,Japan,Osaka University,Law,2024,3,No,Offline,16985
+STD0482,Jeff Gonzalez,Female,China,Japan,Osaka University,Arts,2024,5,No,Offline,50100
+STD0483,Jesse Scott,Other,Brazil,Japan,University of Tokyo,Education,2024,5,No,Online,34262
+STD0484,Larry Joyce,Other,Vietnam,Germany,Heidelberg University,Computer Science,2021,2,Yes,Online,19634
+STD0485,Matthew Thompson,Female,China,UK,University of Oxford,Education,2024,5,Yes,Online,17750
+STD0486,Taylor Ortiz,Other,India,UK,University of Oxford,Sciences,2021,1,Yes,Offline,12266
+STD0487,Craig Krueger,Other,Pakistan,UK,Imperial College London,Engineering,2021,4,No,Online,60699
+STD0488,Tina Snow,Male,China,Netherlands,University of Amsterdam,Engineering,2024,5,No,Online,12202
+STD0489,Justin Walsh,Female,Nigeria,Canada,University of British Columbia,Engineering,2019,1,Yes,Online,14041
+STD0490,Lee Roach,Female,Bangladesh,France,Sciences Po,Education,2022,2,Yes,Online,7954
+STD0491,Victoria Pace,Male,Brazil,France,École Polytechnique,Arts,2022,2,No,Offline,47677
+STD0492,Stephanie Allen,Other,India,Germany,TU Munich,Education,2018,5,Yes,Offline,16140
+STD0493,Scott Frank,Other,Nepal,Germany,LMU Munich,Arts,2021,4,No,Online,59641
+STD0494,Samuel Snyder,Other,Pakistan,Netherlands,Erasmus University,Sciences,2024,1,No,Online,26896
+STD0495,Amanda Duran,Other,Nepal,Japan,Osaka University,Law,2023,2,No,Offline,33140
+STD0496,James Galloway,Male,India,Germany,TU Munich,Arts,2021,3,Yes,Online,20615
+STD0497,Melissa Miller,Male,Pakistan,France,Sorbonne University,Arts,2023,2,No,Online,25391
+STD0498,Steven Nichols,Male,Nigeria,Germany,TU Munich,Law,2024,2,No,Online,61048
+STD0499,Kaylee Singleton,Other,Nepal,UK,University of Oxford,Sciences,2018,5,Yes,Offline,17163
+STD0500,Lisa Knight,Female,Pakistan,Netherlands,Erasmus University,Arts,2019,5,No,Offline,24555
+STD0501,Luis Thomas,Female,China,USA,Stanford University,Education,2022,1,No,Offline,66387
+STD0502,Hannah Richards,Female,China,Netherlands,Delft University,Sciences,2023,1,Yes,Online,17433
+STD0503,Ryan Roberts,Male,Nepal,France,École Polytechnique,Arts,2022,3,Yes,Offline,20445
+STD0504,Cathy Williams,Female,Pakistan,France,Sorbonne University,Sciences,2019,4,No,Offline,65989
+STD0505,Kerri Lee,Other,Bangladesh,Germany,Heidelberg University,Medicine,2019,5,Yes,Online,28619
+STD0506,Rebecca Kelly,Female,Brazil,Australia,University of Sydney,Education,2019,2,Yes,Offline,5319
+STD0507,Kelly Collins,Other,China,Japan,Kyoto University,Medicine,2022,5,No,Offline,29663
+STD0508,Cathy Anderson,Other,Brazil,USA,MIT,Business,2019,1,Yes,Offline,20615
+STD0509,Kelly Lewis DVM,Female,Nepal,Netherlands,Erasmus University,Computer Science,2020,3,No,Offline,11299
+STD0510,Joan Robles,Other,Bangladesh,UK,University of Cambridge,Law,2022,5,Yes,Offline,16636
+STD0511,Charles Kane,Male,Pakistan,Netherlands,Erasmus University,Sciences,2021,5,No,Offline,51399
+STD0512,Karen Lee,Female,China,Canada,University of British Columbia,Computer Science,2023,5,No,Online,15184
+STD0513,Lisa Francis,Female,China,France,Sorbonne University,Computer Science,2023,3,No,Offline,27776
+STD0514,Lisa Fitzgerald,Female,Vietnam,France,Sciences Po,Sciences,2019,2,Yes,Online,28847
+STD0515,Mary King,Male,Nigeria,Germany,LMU Munich,Business,2019,4,Yes,Online,7090
+STD0516,Lisa Watson,Other,Vietnam,USA,Harvard University,Education,2024,1,Yes,Offline,25253
+STD0517,Devin Evans,Female,China,UK,Imperial College London,Education,2019,2,No,Offline,51057
+STD0518,Elizabeth Jones,Male,China,Canada,University of British Columbia,Medicine,2018,3,No,Offline,40617
+STD0519,Derrick Mckenzie,Other,Brazil,Netherlands,Delft University,Medicine,2022,4,No,Offline,69567
+STD0520,David Dawson,Male,Pakistan,Netherlands,Erasmus University,Law,2021,3,No,Offline,27026
+STD0521,Dawn Valencia,Other,China,Germany,TU Munich,Engineering,2024,2,No,Offline,40749
+STD0522,Peter Gross,Male,India,Netherlands,University of Amsterdam,Arts,2024,4,No,Online,62216
+STD0523,Cynthia Martinez,Other,India,France,Sorbonne University,Education,2021,4,Yes,Online,28427
+STD0524,Kara Castillo,Male,Bangladesh,Japan,University of Tokyo,Arts,2021,2,No,Offline,52497
+STD0525,Phillip Taylor,Male,Brazil,Japan,University of Tokyo,Business,2019,3,Yes,Offline,25241
+STD0526,Brian Williams,Male,Vietnam,Germany,LMU Munich,Sciences,2020,1,Yes,Online,22529
+STD0527,Mary Gibson,Female,India,Canada,University of Toronto,Arts,2019,4,Yes,Online,7955
+STD0528,Kathryn Shepherd,Female,China,USA,MIT,Law,2021,3,No,Offline,40388
+STD0529,Scott Sheppard,Male,India,France,Sorbonne University,Medicine,2020,4,Yes,Offline,10950
+STD0530,Zachary Kramer,Male,Nigeria,Germany,Heidelberg University,Engineering,2024,2,No,Offline,26198
+STD0531,Scott Barnett,Other,India,Australia,ANU,Business,2023,2,No,Offline,54659
+STD0532,Jordan Rivera,Other,Brazil,France,Sorbonne University,Engineering,2022,5,Yes,Offline,20768
+STD0533,Arthur Nguyen,Other,Brazil,Australia,ANU,Engineering,2019,1,Yes,Offline,15633
+STD0534,Alexander Young,Female,India,Canada,McGill University,Business,2024,2,Yes,Online,24040
+STD0535,Ashley Smith,Male,Vietnam,Canada,McGill University,Business,2019,4,Yes,Offline,29889
+STD0536,Cesar Guerrero,Other,India,USA,MIT,Medicine,2022,1,Yes,Offline,12624
+STD0537,Sean Leon,Male,Pakistan,France,École Polytechnique,Law,2023,4,No,Online,26429
+STD0538,Dustin Miller,Other,India,Netherlands,Erasmus University,Sciences,2020,5,No,Online,47139
+STD0539,Alicia King,Female,China,France,École Polytechnique,Sciences,2024,5,Yes,Online,22404
+STD0540,Timothy Russell,Other,China,Netherlands,University of Amsterdam,Arts,2020,4,Yes,Offline,29040
+STD0541,Andrea Weaver,Other,China,USA,Stanford University,Computer Science,2019,3,Yes,Offline,11221
+STD0542,Ashley Pacheco,Female,Vietnam,Canada,University of British Columbia,Arts,2021,3,Yes,Online,22144
+STD0543,Frank Mullins,Male,Nepal,USA,Harvard University,Medicine,2019,1,No,Online,16471
+STD0544,Michael Scott,Other,India,Japan,Osaka University,Sciences,2022,5,No,Online,34009
+STD0545,Rebecca Dillon,Other,Nigeria,UK,University of Oxford,Law,2021,1,No,Online,33653
+STD0546,Natalie Ferguson,Other,Bangladesh,France,Sciences Po,Engineering,2020,5,Yes,Online,14958
+STD0547,David Davenport,Male,Nepal,Australia,University of Sydney,Business,2023,2,No,Online,22656
+STD0548,Eric Hudson,Other,Nigeria,Canada,University of British Columbia,Education,2018,5,No,Offline,56042
+STD0549,Jennifer Harris MD,Other,Bangladesh,UK,University of Oxford,Medicine,2021,5,No,Online,44989
+STD0550,James Best,Female,Vietnam,France,École Polytechnique,Computer Science,2021,4,No,Online,46906
+STD0551,William Wilkinson,Female,Nigeria,Japan,Osaka University,Arts,2021,4,No,Online,57599
+STD0552,Larry Torres,Other,India,Germany,LMU Munich,Engineering,2019,3,Yes,Offline,12270
+STD0553,Rachael Jones,Other,Nigeria,France,Sorbonne University,Arts,2022,5,Yes,Online,6236
+STD0554,Angela Kennedy,Female,Vietnam,France,Sorbonne University,Medicine,2020,5,Yes,Online,13396
+STD0555,Mark Smith,Other,Brazil,UK,Imperial College London,Education,2019,1,No,Offline,21331
+STD0556,Brandon Mccoy,Male,Vietnam,UK,Imperial College London,Arts,2023,5,No,Online,61126
+STD0557,Angelica Barrett,Female,India,France,École Polytechnique,Education,2024,1,Yes,Online,25771
+STD0558,Todd Nelson,Female,Bangladesh,USA,MIT,Engineering,2022,5,Yes,Offline,21462
+STD0559,Lisa Butler,Female,Nigeria,Canada,University of Toronto,Education,2024,5,Yes,Online,19153
+STD0560,Timothy Conrad,Female,Brazil,Japan,University of Tokyo,Medicine,2018,4,Yes,Offline,13603
+STD0561,Jessica Duncan,Other,Nepal,Japan,Osaka University,Education,2019,2,No,Online,41972
+STD0562,Alexis Harris,Male,Bangladesh,Australia,University of Sydney,Law,2018,3,No,Offline,54874
+STD0563,Julie Perez,Female,Nepal,UK,Imperial College London,Education,2020,3,Yes,Offline,16289
+STD0564,Natasha Gonzalez,Other,India,Germany,TU Munich,Computer Science,2024,4,Yes,Offline,6470
+STD0565,Brian Carroll,Male,Nigeria,Australia,University of Sydney,Computer Science,2024,1,Yes,Online,12964
+STD0566,Rebecca Davis,Other,China,Germany,TU Munich,Computer Science,2024,1,No,Offline,40879
+STD0567,Jennifer Johnson,Male,India,France,Sorbonne University,Law,2022,5,No,Offline,50831
+STD0568,William Lee,Female,China,USA,MIT,Engineering,2019,1,No,Online,61720
+STD0569,Brittany Ali,Male,Brazil,USA,MIT,Engineering,2021,3,No,Online,11250
+STD0570,Amanda White,Other,Brazil,Japan,University of Tokyo,Education,2023,1,No,Offline,66804
+STD0571,Laurie Pugh,Other,Nepal,Canada,University of Toronto,Sciences,2023,1,Yes,Online,22347
+STD0572,Christopher Gregory,Other,Brazil,France,École Polytechnique,Education,2019,1,No,Offline,33290
+STD0573,Russell Anderson,Male,Brazil,Australia,University of Sydney,Arts,2023,3,No,Online,46368
+STD0574,Michael Carter,Female,Brazil,Australia,University of Melbourne,Computer Science,2023,2,Yes,Offline,22062
+STD0575,Matthew Patterson,Female,Nigeria,Japan,University of Tokyo,Medicine,2020,5,No,Offline,45535
+STD0576,Austin Sparks,Other,China,Australia,University of Sydney,Medicine,2022,2,Yes,Offline,27561
+STD0577,Amanda Walls,Female,China,Japan,University of Tokyo,Medicine,2018,5,Yes,Online,15407
+STD0578,William Becker,Female,China,USA,MIT,Education,2020,4,No,Online,61059
+STD0579,Thomas Grant,Male,Nigeria,UK,University of Oxford,Medicine,2024,5,No,Online,49083
+STD0580,Jeanette Sandoval,Female,Nigeria,Australia,University of Sydney,Engineering,2018,4,Yes,Offline,28331
+STD0581,Mark Wheeler,Female,Pakistan,Canada,McGill University,Sciences,2019,2,Yes,Online,6056
+STD0582,Jessica Freeman,Male,Bangladesh,USA,MIT,Education,2023,2,Yes,Online,10802
+STD0583,Melissa Wheeler,Female,Vietnam,Netherlands,Erasmus University,Computer Science,2019,4,No,Online,49841
+STD0584,Antonio Bruce,Other,Bangladesh,France,École Polytechnique,Engineering,2018,4,No,Online,67526
+STD0585,Lisa Evans,Other,Nigeria,Japan,Osaka University,Engineering,2021,5,Yes,Online,14541
+STD0586,Lisa Hernandez,Female,Vietnam,Japan,Kyoto University,Arts,2019,4,No,Online,55216
+STD0587,Taylor Cruz,Male,China,Netherlands,Erasmus University,Sciences,2023,5,Yes,Online,24183
+STD0588,Mallory White,Female,China,Japan,Kyoto University,Computer Science,2018,2,No,Online,67838
+STD0589,Charles Osborne,Other,Vietnam,UK,University of Cambridge,Computer Science,2023,2,Yes,Online,8740
+STD0590,Christopher Patterson,Other,Vietnam,France,Sorbonne University,Education,2024,5,Yes,Offline,23033
+STD0591,Michael Walker,Other,Bangladesh,USA,Harvard University,Computer Science,2024,2,Yes,Online,10861
+STD0592,Brandon Watkins,Other,India,Japan,Kyoto University,Arts,2024,4,No,Online,17704
+STD0593,Beverly Calderon,Male,China,Australia,University of Melbourne,Arts,2021,4,No,Online,49844
+STD0594,Charlotte Kim,Female,Vietnam,Australia,University of Melbourne,Sciences,2021,4,Yes,Online,13018
+STD0595,Elizabeth Williams,Male,Brazil,Australia,University of Melbourne,Medicine,2018,3,Yes,Online,6062
+STD0596,Jesse Howell,Male,Brazil,France,Sorbonne University,Engineering,2021,2,Yes,Offline,25024
+STD0597,Mrs. Tiffany Shah,Male,China,Netherlands,Erasmus University,Computer Science,2018,3,No,Offline,68820
+STD0598,Michael Murphy,Female,Bangladesh,UK,University of Cambridge,Business,2021,2,Yes,Offline,15787
+STD0599,Mark Thornton,Other,Bangladesh,Australia,University of Sydney,Law,2018,1,Yes,Offline,28726
+STD0600,Emily Lucas,Female,Brazil,Japan,Osaka University,Computer Science,2022,5,No,Online,50258
+STD0601,Peggy Gonzalez,Other,Vietnam,Netherlands,University of Amsterdam,Medicine,2019,3,Yes,Online,8873
+STD0602,Jessica Baker,Other,India,Netherlands,Erasmus University,Business,2024,2,No,Offline,12981
+STD0603,Michael Collins,Male,Pakistan,France,Sciences Po,Law,2023,2,No,Offline,61786
+STD0604,Mario Maldonado,Male,Nepal,Germany,Heidelberg University,Computer Science,2018,3,No,Offline,57474
+STD0605,Erin Baker,Female,India,Canada,University of Toronto,Computer Science,2023,4,No,Online,52313
+STD0606,Steven Cooke,Other,China,Netherlands,Delft University,Sciences,2020,4,No,Online,64729
+STD0607,Isabel Park,Male,Brazil,France,Sciences Po,Engineering,2022,3,No,Online,19784
+STD0608,Ashley Thompson,Other,Brazil,USA,MIT,Education,2022,2,No,Online,49006
+STD0609,Sara Roberts,Other,Nepal,Germany,LMU Munich,Computer Science,2018,3,No,Online,42574
+STD0610,Olivia Smith,Male,Nigeria,France,École Polytechnique,Arts,2022,3,Yes,Online,17262
+STD0611,Tyler Benson,Other,India,Australia,University of Melbourne,Sciences,2018,4,Yes,Online,16144
+STD0612,Derek Hall,Male,Vietnam,Germany,Heidelberg University,Medicine,2024,5,Yes,Online,28742
+STD0613,Lauren Graves,Male,India,Netherlands,University of Amsterdam,Business,2020,1,Yes,Offline,20298
+STD0614,Diane Stanley,Male,India,UK,Imperial College London,Arts,2022,3,Yes,Offline,11571
+STD0615,Tracy Watson,Female,Nigeria,Germany,Heidelberg University,Computer Science,2023,1,No,Online,20321
+STD0616,Joseph Chan,Male,Brazil,UK,University of Oxford,Business,2022,3,No,Offline,19277
+STD0617,Alicia Bridges,Female,Brazil,Australia,University of Melbourne,Business,2022,3,No,Online,18524
+STD0618,Robert Daniels,Male,India,Netherlands,Erasmus University,Engineering,2021,1,Yes,Offline,17842
+STD0619,Veronica Bryant,Female,China,Netherlands,Erasmus University,Computer Science,2020,2,Yes,Offline,23605
+STD0620,Charlotte Stokes,Male,China,UK,Imperial College London,Sciences,2021,3,No,Offline,25184
+STD0621,Kara Johnson,Female,Nigeria,Canada,University of British Columbia,Arts,2021,2,No,Offline,39706
+STD0622,Nicole Martin,Male,Vietnam,USA,Harvard University,Sciences,2020,4,No,Online,28498
+STD0623,Anthony Burgess,Female,Pakistan,Canada,University of British Columbia,Business,2024,1,No,Online,61932
+STD0624,Mrs. Kristen Martin DDS,Male,Brazil,Netherlands,University of Amsterdam,Education,2022,2,Yes,Offline,17576
+STD0625,Jeremy Nash,Female,Nepal,France,Sorbonne University,Education,2022,3,Yes,Online,26712
+STD0626,Susan Velez,Female,Nepal,Netherlands,Delft University,Sciences,2022,1,No,Online,30187
+STD0627,Jeffrey Johnson,Other,Bangladesh,UK,Imperial College London,Business,2024,5,No,Offline,42394
+STD0628,Michelle Mcclain,Other,India,UK,University of Oxford,Medicine,2024,1,Yes,Online,19843
+STD0629,Jonathan Mcgee,Male,Brazil,Japan,Osaka University,Sciences,2019,3,No,Offline,38490
+STD0630,Timothy Vargas,Other,Pakistan,UK,Imperial College London,Engineering,2022,4,Yes,Offline,7045
+STD0631,Carlos Walker,Male,Pakistan,USA,Harvard University,Computer Science,2024,3,Yes,Online,19146
+STD0632,Donna James,Female,Bangladesh,France,Sciences Po,Education,2021,4,Yes,Online,20560
+STD0633,Valerie Ramos,Female,China,Australia,University of Sydney,Education,2024,4,Yes,Offline,26956
+STD0634,Betty Castaneda,Other,China,Canada,University of Toronto,Business,2018,2,No,Offline,18898
+STD0635,Fred Lee,Female,Nepal,Canada,University of British Columbia,Education,2024,5,No,Online,39779
+STD0636,Jennifer Sandoval,Male,Bangladesh,Netherlands,University of Amsterdam,Computer Science,2019,4,Yes,Offline,28950
+STD0637,Emily Cuevas,Male,Nigeria,Germany,Heidelberg University,Computer Science,2018,5,No,Offline,17416
+STD0638,Cody Smith,Female,Vietnam,UK,University of Oxford,Arts,2022,1,Yes,Online,20481
+STD0639,Sarah Brown,Female,Nepal,Germany,LMU Munich,Engineering,2022,1,No,Offline,43597
+STD0640,Alexandra Smith,Female,Vietnam,France,École Polytechnique,Computer Science,2020,2,Yes,Offline,28821
+STD0641,Ana Mora,Other,Brazil,USA,Stanford University,Sciences,2019,5,Yes,Offline,29162
+STD0642,Thomas Chavez,Male,India,Germany,Heidelberg University,Business,2022,1,No,Offline,18686
+STD0643,Zachary Fisher,Other,Brazil,Germany,Heidelberg University,Engineering,2018,5,Yes,Online,26599
+STD0644,Erica Powers,Other,Vietnam,France,Sorbonne University,Arts,2019,4,Yes,Online,16234
+STD0645,Pamela Berry,Female,Nepal,Canada,University of British Columbia,Medicine,2024,4,No,Online,53297
+STD0646,Eric Wright,Male,Vietnam,Canada,University of Toronto,Computer Science,2023,3,Yes,Online,10491
+STD0647,Terry Phillips,Female,Vietnam,Japan,Kyoto University,Arts,2023,5,Yes,Offline,27397
+STD0648,Elizabeth Caldwell,Other,Bangladesh,Netherlands,University of Amsterdam,Medicine,2024,4,Yes,Offline,19706
+STD0649,Michael Mejia,Male,Bangladesh,France,Sciences Po,Engineering,2022,3,No,Offline,31952
+STD0650,James Jennings,Other,Brazil,Germany,TU Munich,Arts,2022,4,No,Online,58123
+STD0651,Lisa Lee,Female,Nigeria,France,Sciences Po,Medicine,2022,1,Yes,Online,5391
+STD0652,Sean Sanchez,Other,Bangladesh,UK,Imperial College London,Business,2021,3,Yes,Offline,13254
+STD0653,John Lopez,Male,Nigeria,USA,Harvard University,Business,2022,2,Yes,Online,7830
+STD0654,Scott Stevens,Male,China,Japan,Osaka University,Medicine,2023,2,No,Offline,40602
+STD0655,Stacy Hutchinson,Other,Nepal,Netherlands,University of Amsterdam,Education,2023,3,No,Online,61166
+STD0656,Derek Thompson,Female,Nepal,Germany,TU Munich,Education,2020,1,No,Offline,21660
+STD0657,Ashley Willis,Other,Vietnam,UK,University of Cambridge,Law,2021,2,No,Online,19428
+STD0658,Rachel Horton,Female,Bangladesh,Australia,University of Sydney,Business,2023,3,Yes,Online,7389
+STD0659,Matthew Davidson,Female,Nepal,Germany,Heidelberg University,Engineering,2019,1,Yes,Offline,13730
+STD0660,Felicia May,Other,China,France,École Polytechnique,Engineering,2023,4,No,Offline,36470
+STD0661,Julie Grant,Other,Nepal,Australia,University of Melbourne,Education,2024,4,Yes,Offline,15926
+STD0662,James Richards MD,Female,Brazil,Japan,University of Tokyo,Business,2022,3,Yes,Offline,29918
+STD0663,Jason Lyons,Female,Brazil,Australia,University of Melbourne,Engineering,2023,2,No,Offline,68750
+STD0664,Sarah Payne,Other,Nepal,France,École Polytechnique,Business,2021,2,Yes,Online,11327
+STD0665,Christopher Jefferson,Male,India,Australia,ANU,Education,2024,5,No,Offline,44992
+STD0666,Gabriella Castillo,Male,Vietnam,USA,Harvard University,Computer Science,2020,1,No,Online,23872
+STD0667,Benjamin Wang,Male,Vietnam,Canada,University of British Columbia,Law,2018,2,No,Online,40881
+STD0668,James Robinson,Male,India,Australia,University of Sydney,Medicine,2019,1,No,Online,39896
+STD0669,Katrina Thompson,Female,China,UK,University of Oxford,Business,2022,5,Yes,Online,11640
+STD0670,Angela Bartlett,Female,Bangladesh,France,Sciences Po,Education,2018,5,Yes,Offline,11987
+STD0671,Paula Lamb,Male,India,Canada,McGill University,Business,2020,2,No,Online,55632
+STD0672,Robert Cook,Other,Pakistan,Canada,McGill University,Law,2018,2,Yes,Offline,10169
+STD0673,Sarah Warren,Male,India,Netherlands,Delft University,Engineering,2019,1,No,Offline,55449
+STD0674,Michael Medina,Other,Vietnam,Canada,University of Toronto,Medicine,2020,5,No,Offline,25679
+STD0675,Rebecca Wright,Other,China,USA,Stanford University,Medicine,2021,5,Yes,Offline,16398
+STD0676,Ray Arellano,Male,Bangladesh,USA,Stanford University,Law,2018,5,Yes,Offline,29940
+STD0677,Jason Smith,Female,Nigeria,Netherlands,Erasmus University,Law,2018,2,Yes,Online,27454
+STD0678,Ryan Dougherty,Other,Vietnam,Netherlands,Delft University,Medicine,2018,1,No,Offline,23735
+STD0679,Cassandra Greer,Male,Bangladesh,Germany,Heidelberg University,Sciences,2018,1,Yes,Online,5952
+STD0680,Alexandra Brown,Other,Vietnam,UK,University of Oxford,Law,2021,5,No,Offline,23025
+STD0681,Kevin Holland PhD,Male,Pakistan,Australia,University of Melbourne,Computer Science,2018,2,No,Online,34610
+STD0682,Brian Scott,Male,Nigeria,UK,University of Cambridge,Sciences,2021,2,Yes,Offline,10834
+STD0683,Henry Hall,Other,Bangladesh,France,Sorbonne University,Sciences,2019,3,No,Online,32012
+STD0684,Michael Jordan,Female,China,USA,Stanford University,Engineering,2019,1,No,Offline,37408
+STD0685,Patty Watson,Other,China,France,Sorbonne University,Arts,2019,5,Yes,Online,7833
+STD0686,William Martin,Female,Bangladesh,Netherlands,Delft University,Sciences,2020,1,No,Online,26241
+STD0687,Melanie Pham,Other,Pakistan,Japan,Osaka University,Law,2019,5,Yes,Offline,6449
+STD0688,Miranda Terrell,Female,India,Netherlands,Erasmus University,Engineering,2022,4,No,Online,39651
+STD0689,Antonio Johnson,Other,Vietnam,Australia,University of Melbourne,Engineering,2023,4,Yes,Online,16744
+STD0690,Sara Ball,Male,Brazil,Australia,University of Sydney,Business,2021,3,Yes,Offline,23690
+STD0691,Laura Raymond,Other,India,Netherlands,University of Amsterdam,Medicine,2021,2,No,Offline,56130
+STD0692,Michael Goodman,Other,India,UK,University of Cambridge,Computer Science,2018,3,No,Offline,55747
+STD0693,Bryan Green,Other,Nigeria,UK,Imperial College London,Computer Science,2018,5,No,Online,17272
+STD0694,Caitlyn Gillespie,Female,Bangladesh,France,École Polytechnique,Engineering,2020,2,Yes,Online,9535
+STD0695,Joanne Baker,Other,Pakistan,Australia,University of Sydney,Business,2021,5,Yes,Online,15500
+STD0696,James Olson,Female,Pakistan,Germany,LMU Munich,Education,2018,1,No,Offline,39649
+STD0697,Dana Paul,Female,Vietnam,UK,University of Cambridge,Arts,2022,3,Yes,Online,20003
+STD0698,Denise Thomas,Female,Nepal,UK,University of Cambridge,Medicine,2018,1,Yes,Offline,8670
+STD0699,Roberto Smith,Other,China,Netherlands,Delft University,Law,2023,1,No,Offline,54721
+STD0700,Jason Russell Jr.,Female,China,Netherlands,University of Amsterdam,Education,2023,1,No,Online,14125
+STD0701,Mariah Solis,Female,India,Australia,University of Sydney,Computer Science,2022,3,No,Offline,48886
+STD0702,April Cordova,Female,Vietnam,Netherlands,University of Amsterdam,Medicine,2019,3,Yes,Offline,17186
+STD0703,Rodney Small,Female,Brazil,USA,Harvard University,Computer Science,2021,2,Yes,Offline,10972
+STD0704,Dr. Joseph Myers,Male,China,Canada,University of Toronto,Law,2018,3,Yes,Offline,13533
+STD0705,Jason Barton,Other,Pakistan,Canada,University of Toronto,Engineering,2020,3,Yes,Offline,19694
+STD0706,Heather Morrow,Female,China,Germany,TU Munich,Engineering,2021,2,No,Offline,20227
+STD0707,Sarah Mayer,Female,India,France,Sciences Po,Arts,2020,5,Yes,Offline,16098
+STD0708,Brittany Murphy,Other,Nepal,Netherlands,Delft University,Medicine,2022,1,No,Online,36321
+STD0709,James Anderson,Female,Nigeria,Netherlands,University of Amsterdam,Business,2018,5,Yes,Online,14107
+STD0710,Andrea Montgomery,Other,Nigeria,USA,Harvard University,Sciences,2023,1,No,Online,42143
+STD0711,Joshua Perry,Female,Pakistan,USA,Stanford University,Computer Science,2019,4,No,Offline,34433
+STD0712,Jason Gray,Female,India,Germany,Heidelberg University,Computer Science,2021,5,Yes,Online,28850
+STD0713,Russell Erickson,Male,Vietnam,Japan,Kyoto University,Arts,2024,4,No,Online,64756
+STD0714,Jacob Lawrence,Female,Nepal,Canada,University of Toronto,Arts,2024,5,No,Online,48710
+STD0715,Philip Hawkins,Other,Bangladesh,UK,University of Oxford,Education,2020,4,Yes,Offline,28273
+STD0716,James Ball,Female,China,Australia,University of Melbourne,Education,2022,4,Yes,Offline,24176
+STD0717,Cassandra Carter,Male,Brazil,Netherlands,Erasmus University,Sciences,2018,1,Yes,Offline,14835
+STD0718,Jennifer Long,Female,Vietnam,UK,Imperial College London,Arts,2019,4,Yes,Online,8911
+STD0719,Jill Ortiz,Other,Brazil,Netherlands,Delft University,Computer Science,2021,5,No,Offline,51156
+STD0720,Maria Davis,Female,Vietnam,UK,University of Cambridge,Engineering,2019,5,Yes,Online,15475
+STD0721,Richard Ward,Male,Vietnam,Canada,McGill University,Medicine,2020,3,No,Offline,13192
+STD0722,Mary Lee,Other,Brazil,Germany,LMU Munich,Business,2019,2,Yes,Online,22816
+STD0723,Elijah Harris,Female,Pakistan,France,Sciences Po,Arts,2023,3,Yes,Offline,9709
+STD0724,Wendy Brown,Female,India,Canada,University of British Columbia,Arts,2024,4,No,Offline,69689
+STD0725,Daniel Carter,Other,China,UK,University of Oxford,Medicine,2019,2,Yes,Offline,20089
+STD0726,Nicole Nguyen,Female,Nepal,UK,University of Oxford,Engineering,2020,3,No,Online,63545
+STD0727,Kelsey Chandler,Male,Vietnam,France,Sorbonne University,Arts,2023,1,Yes,Online,27748
+STD0728,John Johnson,Male,China,Australia,ANU,Medicine,2019,1,No,Online,15094
+STD0729,Theresa Williams,Male,India,Netherlands,University of Amsterdam,Engineering,2018,1,Yes,Offline,8896
+STD0730,Kenneth Hernandez,Other,Brazil,USA,Harvard University,Arts,2018,1,Yes,Online,24254
+STD0731,Lisa Hale,Male,Nigeria,Canada,University of British Columbia,Computer Science,2018,2,No,Offline,33081
+STD0732,Steven Roberts,Male,China,Australia,University of Sydney,Business,2024,5,Yes,Online,28455
+STD0733,Janet Anderson,Other,Nigeria,Germany,TU Munich,Engineering,2018,2,No,Offline,55752
+STD0734,Summer Griffin,Male,China,Netherlands,Erasmus University,Business,2024,3,No,Offline,24042
+STD0735,Donald Graham,Male,Nigeria,Japan,University of Tokyo,Computer Science,2021,1,Yes,Offline,29978
+STD0736,Shawn Dean,Male,Pakistan,Germany,LMU Munich,Engineering,2020,4,Yes,Offline,14293
+STD0737,Shane Roth,Male,Vietnam,Germany,LMU Munich,Sciences,2022,4,No,Offline,22372
+STD0738,Timothy Owens,Male,Nepal,Netherlands,Erasmus University,Computer Science,2018,4,Yes,Offline,19354
+STD0739,Donald Brown,Female,Nepal,UK,University of Oxford,Education,2023,5,Yes,Online,7120
+STD0740,Misty Kirby,Other,Pakistan,Australia,ANU,Law,2024,4,Yes,Online,18916
+STD0741,Gary Perez,Other,Vietnam,Germany,LMU Munich,Arts,2021,3,No,Offline,41754
+STD0742,Tyrone Faulkner,Male,Brazil,Canada,McGill University,Business,2020,4,No,Online,51180
+STD0743,Alicia Scott,Male,China,USA,Harvard University,Engineering,2021,1,Yes,Offline,24811
+STD0744,Nicole Rosario,Male,Pakistan,Canada,McGill University,Business,2023,5,No,Offline,23233
+STD0745,Katie Brown,Other,Brazil,Netherlands,University of Amsterdam,Arts,2020,5,Yes,Online,19103
+STD0746,Timothy Walsh,Female,Nepal,Japan,Kyoto University,Computer Science,2021,4,Yes,Online,10795
+STD0747,Toni Bradley,Male,Brazil,Canada,McGill University,Education,2020,4,No,Online,47280
+STD0748,Heather Singh,Other,Vietnam,Netherlands,University of Amsterdam,Medicine,2018,4,No,Offline,48734
+STD0749,Pamela Brennan,Male,Bangladesh,France,École Polytechnique,Computer Science,2018,5,Yes,Online,17006
+STD0750,Deanna Leonard,Female,Pakistan,USA,Stanford University,Computer Science,2018,4,No,Offline,36996
+STD0751,Herbert Roach,Male,Pakistan,USA,Stanford University,Law,2019,3,Yes,Online,14991
+STD0752,Rachael Wilson,Other,Nepal,France,Sorbonne University,Engineering,2020,1,No,Offline,47227
+STD0753,Jason Ford,Other,Bangladesh,Germany,TU Munich,Sciences,2018,3,No,Offline,31130
+STD0754,Tanya Yang,Female,Nepal,Netherlands,Delft University,Law,2021,5,No,Online,50293
+STD0755,Colleen Davis,Female,Brazil,France,École Polytechnique,Law,2023,1,Yes,Offline,13688
+STD0756,Melissa Allison,Male,India,Germany,LMU Munich,Education,2022,1,Yes,Offline,13957
+STD0757,Sheila Richards,Female,Nepal,Netherlands,University of Amsterdam,Law,2024,1,No,Offline,38371
+STD0758,Tony Wilson,Female,Pakistan,Australia,ANU,Education,2022,5,No,Online,67730
+STD0759,Timothy Williams,Male,India,Canada,University of British Columbia,Sciences,2023,4,No,Offline,47101
+STD0760,Megan Evans,Male,India,Australia,ANU,Sciences,2019,2,No,Offline,36886
+STD0761,Steven Lowe,Female,Pakistan,UK,Imperial College London,Law,2020,3,Yes,Offline,27506
+STD0762,James Hooper,Male,Nigeria,Japan,University of Tokyo,Business,2019,1,Yes,Offline,20209
+STD0763,Caitlyn Ward,Male,Vietnam,Japan,Kyoto University,Engineering,2019,3,Yes,Online,13467
+STD0764,Aaron Rice,Other,Brazil,Canada,University of British Columbia,Engineering,2021,1,Yes,Online,15286
+STD0765,Stephanie Diaz,Other,Brazil,UK,University of Cambridge,Computer Science,2023,1,No,Online,25469
+STD0766,Steven Nguyen,Female,Nepal,UK,Imperial College London,Arts,2018,2,Yes,Offline,15790
+STD0767,Devin Peterson,Male,Bangladesh,Australia,ANU,Law,2018,2,Yes,Offline,19400
+STD0768,Nathaniel Yates,Female,Bangladesh,Germany,LMU Munich,Engineering,2022,3,Yes,Offline,22882
+STD0769,Kevin Butler,Female,Bangladesh,Netherlands,Erasmus University,Law,2024,2,No,Offline,56902
+STD0770,Timothy Burns,Other,Pakistan,Germany,TU Munich,Engineering,2023,1,Yes,Offline,23111
+STD0771,Benjamin Phillips,Other,Bangladesh,Germany,LMU Munich,Computer Science,2018,5,Yes,Offline,17729
+STD0772,Amy Wolfe,Male,India,Japan,Kyoto University,Arts,2024,2,No,Online,66322
+STD0773,Tammy Brooks,Other,China,Netherlands,Erasmus University,Computer Science,2021,1,No,Online,63949
+STD0774,Dennis Hill,Female,Vietnam,Netherlands,Erasmus University,Education,2023,4,Yes,Online,27887
+STD0775,Amy Baker,Other,Brazil,UK,University of Cambridge,Education,2023,5,No,Offline,55561
+STD0776,Jeffrey Gonzalez,Other,India,USA,Stanford University,Medicine,2021,2,Yes,Offline,11556
+STD0777,Anthony Brown,Male,Brazil,France,Sciences Po,Business,2019,2,Yes,Offline,15466
+STD0778,Frank Taylor,Female,Vietnam,Netherlands,Erasmus University,Medicine,2019,5,No,Offline,23019
+STD0779,Jeffrey Harris,Female,Nepal,Japan,Kyoto University,Medicine,2021,5,Yes,Online,5752
+STD0780,Ruben Powell,Female,Nigeria,UK,University of Cambridge,Law,2023,2,Yes,Offline,25250
+STD0781,Renee Schwartz,Female,Bangladesh,Germany,TU Munich,Business,2019,5,Yes,Online,28546
+STD0782,Cory Martinez,Male,Bangladesh,Netherlands,Erasmus University,Sciences,2019,2,Yes,Offline,14435
+STD0783,Justin Rogers,Male,Vietnam,Japan,University of Tokyo,Education,2022,2,No,Online,37415
+STD0784,Anne Rich,Female,China,Japan,University of Tokyo,Engineering,2020,2,No,Online,34224
+STD0785,Jordan Young,Male,Vietnam,UK,University of Oxford,Sciences,2024,3,No,Online,56749
+STD0786,Dr. Desiree Harmon DDS,Male,Bangladesh,Japan,Osaka University,Arts,2018,5,Yes,Online,15907
+STD0787,Michael Anderson PhD,Male,Nigeria,Netherlands,University of Amsterdam,Engineering,2020,5,No,Offline,35866
+STD0788,Bryce Hartman,Other,Pakistan,Canada,University of British Columbia,Engineering,2019,3,Yes,Offline,16114
+STD0789,Stacy Middleton,Other,Vietnam,Canada,University of Toronto,Computer Science,2022,4,Yes,Offline,8828
+STD0790,David Skinner,Female,Pakistan,USA,Harvard University,Sciences,2023,3,No,Offline,69165
+STD0791,Mark Taylor,Female,Brazil,Germany,LMU Munich,Computer Science,2019,3,No,Online,46416
+STD0792,Lucas Jackson,Male,Vietnam,USA,Harvard University,Medicine,2019,2,Yes,Offline,13527
+STD0793,Emma Ruiz,Female,China,Netherlands,University of Amsterdam,Business,2018,4,No,Offline,39999
+STD0794,Rita Jackson,Male,Vietnam,UK,Imperial College London,Medicine,2020,1,Yes,Offline,10919
+STD0795,Lisa Martinez,Other,China,Germany,LMU Munich,Law,2018,5,Yes,Offline,7517
+STD0796,Elizabeth Gregory,Female,Nigeria,Netherlands,Erasmus University,Business,2018,3,Yes,Offline,17240
+STD0797,Brian Hahn,Male,Nepal,France,Sorbonne University,Engineering,2021,4,No,Offline,48941
+STD0798,Allen Mitchell,Female,India,France,Sorbonne University,Sciences,2023,5,Yes,Online,6595
+STD0799,Robert Williamson,Other,Brazil,France,Sorbonne University,Business,2022,4,Yes,Offline,13361
+STD0800,Robert Gomez,Male,China,Australia,ANU,Business,2024,2,Yes,Offline,18185
+STD0801,Cody Smith,Female,Brazil,Canada,University of Toronto,Arts,2024,4,No,Online,33530
+STD0802,Emily Robinson,Female,Nepal,France,Sciences Po,Law,2021,4,No,Offline,46900
+STD0803,Carrie Park,Other,Bangladesh,UK,University of Cambridge,Computer Science,2019,4,No,Online,12650
+STD0804,Erica Davis,Other,Pakistan,Netherlands,Erasmus University,Law,2023,2,No,Online,29051
+STD0805,Katherine Kramer,Female,Vietnam,Japan,University of Tokyo,Sciences,2019,2,No,Online,44281
+STD0806,Brandi Stewart,Other,Bangladesh,Germany,LMU Munich,Engineering,2018,1,Yes,Offline,18533
+STD0807,William Ramos,Female,Nepal,Netherlands,Erasmus University,Arts,2020,5,Yes,Online,8733
+STD0808,Erin Hill,Male,Vietnam,Canada,University of Toronto,Education,2018,4,No,Offline,48483
+STD0809,Tammy Mccann,Female,Vietnam,Netherlands,Erasmus University,Arts,2024,2,Yes,Online,7563
+STD0810,Dr. Michelle Patterson,Male,Brazil,UK,University of Cambridge,Engineering,2021,1,Yes,Online,26489
+STD0811,Angela Harvey,Other,Vietnam,Netherlands,Erasmus University,Education,2023,5,No,Offline,50533
+STD0812,Michael Miller,Male,Pakistan,Japan,Kyoto University,Business,2019,1,Yes,Online,5520
+STD0813,Dana Lewis,Other,Nigeria,USA,Harvard University,Sciences,2019,2,No,Online,15642
+STD0814,James Green,Female,Brazil,Netherlands,Delft University,Sciences,2018,1,Yes,Online,29208
+STD0815,Derrick Dunn,Female,Vietnam,Netherlands,University of Amsterdam,Engineering,2022,2,Yes,Offline,23659
+STD0816,Elizabeth Williams,Male,Bangladesh,USA,MIT,Engineering,2023,4,No,Offline,58305
+STD0817,Timothy Murray,Female,Brazil,USA,MIT,Education,2022,5,No,Online,56811
+STD0818,Taylor Bautista,Other,India,USA,MIT,Computer Science,2018,3,No,Offline,17663
+STD0819,Lisa Woods,Male,Vietnam,France,École Polytechnique,Education,2019,3,Yes,Offline,16267
+STD0820,Phillip Foster,Other,Vietnam,Australia,University of Sydney,Law,2023,3,No,Online,67879
+STD0821,Robert Brown,Female,Brazil,Japan,Kyoto University,Computer Science,2024,2,Yes,Offline,27632
+STD0822,Dr. Robin Robinson,Male,Nepal,Netherlands,Delft University,Medicine,2019,5,No,Online,62001
+STD0823,Ryan Schwartz,Male,Bangladesh,Netherlands,University of Amsterdam,Law,2022,1,Yes,Offline,13546
+STD0824,Holly Todd,Male,Pakistan,Canada,University of Toronto,Engineering,2020,4,Yes,Online,8954
+STD0825,Amanda Jackson,Female,Nigeria,Netherlands,University of Amsterdam,Computer Science,2024,1,No,Online,65928
+STD0826,Melanie Gutierrez,Male,Nepal,USA,MIT,Sciences,2018,5,Yes,Online,21623
+STD0827,Ashley Hammond,Male,Nepal,Canada,University of British Columbia,Business,2020,2,No,Offline,59936
+STD0828,Angela Wilson,Female,Vietnam,UK,University of Oxford,Computer Science,2024,2,Yes,Online,19388
+STD0829,Christine Washington,Female,Bangladesh,USA,Harvard University,Sciences,2020,5,Yes,Online,13716
+STD0830,Robert Gilmore,Male,Pakistan,Japan,Kyoto University,Law,2024,5,No,Online,19043
+STD0831,Kevin Terrell,Other,Bangladesh,Japan,Kyoto University,Sciences,2024,3,Yes,Offline,9770
+STD0832,Madison Mcpherson,Female,India,UK,University of Oxford,Computer Science,2021,2,No,Online,35773
+STD0833,Deborah Knight,Other,India,Canada,University of British Columbia,Engineering,2023,5,No,Offline,36345
+STD0834,Austin Johnston,Female,Brazil,France,École Polytechnique,Engineering,2022,5,Yes,Offline,19620
+STD0835,Mark Fleming,Other,Nigeria,Netherlands,Erasmus University,Computer Science,2021,2,No,Online,12422
+STD0836,Heather Brewer,Other,Pakistan,Japan,Osaka University,Medicine,2022,3,Yes,Online,21766
+STD0837,Michelle Kaufman,Male,Brazil,France,Sciences Po,Medicine,2018,5,No,Online,64540
+STD0838,Katie Rivera,Other,Brazil,Japan,Osaka University,Business,2018,3,No,Offline,18114
+STD0839,Allison Mcmillan,Other,India,UK,University of Cambridge,Arts,2023,1,No,Offline,25472
+STD0840,Craig Hanson,Other,Nigeria,France,École Polytechnique,Arts,2024,5,Yes,Offline,22028
+STD0841,Victoria Duffy,Female,Nigeria,UK,University of Cambridge,Law,2021,1,Yes,Offline,18502
+STD0842,Dr. Nicole Rivera,Male,Nepal,UK,University of Oxford,Education,2021,2,No,Online,34202
+STD0843,Victoria Burnett,Other,Bangladesh,Japan,Kyoto University,Sciences,2021,4,No,Offline,63989
+STD0844,Rebecca Velez,Female,China,Canada,University of British Columbia,Medicine,2023,4,Yes,Online,27756
+STD0845,Michael Henry,Other,Nigeria,Netherlands,University of Amsterdam,Engineering,2019,5,No,Online,49426
+STD0846,Barbara Castillo MD,Other,Bangladesh,UK,University of Oxford,Computer Science,2020,1,Yes,Online,17172
+STD0847,Benjamin Miller,Female,Brazil,France,École Polytechnique,Arts,2018,2,Yes,Offline,6594
+STD0848,Ryan Vasquez,Other,Brazil,Germany,TU Munich,Medicine,2021,1,Yes,Offline,7213
+STD0849,Diana Barton,Other,India,Japan,Kyoto University,Arts,2021,3,No,Offline,64687
+STD0850,Christopher Mcdonald,Female,China,Canada,University of British Columbia,Sciences,2023,4,Yes,Offline,7926
+STD0851,Ashley Castillo,Female,Bangladesh,Japan,University of Tokyo,Education,2022,1,No,Offline,52330
+STD0852,Aaron Fleming,Other,Nepal,Canada,University of British Columbia,Engineering,2023,3,Yes,Online,11305
+STD0853,Ernest Graves,Male,India,Australia,ANU,Engineering,2023,5,Yes,Online,14009
+STD0854,Shelia Blevins,Male,Nigeria,Australia,University of Sydney,Sciences,2024,5,No,Offline,48593
+STD0855,Ebony King,Female,India,Netherlands,Delft University,Computer Science,2019,4,Yes,Offline,17517
+STD0856,Brett Bernard,Other,Brazil,UK,University of Oxford,Business,2019,3,Yes,Online,13374
+STD0857,Jerry Kelley,Other,Nepal,Canada,McGill University,Education,2019,1,No,Online,11780
+STD0858,Stephanie Hall,Female,India,Germany,Heidelberg University,Business,2019,4,No,Offline,34609
+STD0859,Mark Sellers,Other,Nepal,USA,Harvard University,Law,2022,2,No,Offline,17541
+STD0860,Veronica Cantu,Other,Brazil,USA,MIT,Sciences,2021,1,No,Online,36705
+STD0861,Tina Johnson,Male,Nigeria,USA,MIT,Business,2024,5,Yes,Offline,23620
+STD0862,Cindy Keller,Male,Bangladesh,Netherlands,Delft University,Law,2020,5,Yes,Online,22613
+STD0863,Andrew Moss,Female,Bangladesh,Netherlands,Delft University,Engineering,2024,5,No,Online,10035
+STD0864,Brittany Kelley,Other,India,Netherlands,University of Amsterdam,Arts,2021,3,Yes,Offline,6490
+STD0865,Terrence Jensen,Female,China,UK,University of Cambridge,Business,2023,1,Yes,Offline,19154
+STD0866,Regina Koch,Other,Nigeria,France,Sciences Po,Computer Science,2020,4,No,Online,53402
+STD0867,Michelle White,Other,Pakistan,France,Sorbonne University,Sciences,2020,1,Yes,Online,24948
+STD0868,Caroline Berry,Female,Vietnam,USA,Harvard University,Medicine,2022,4,No,Online,61596
+STD0869,Alan Wade,Other,Nepal,USA,Stanford University,Sciences,2018,3,No,Offline,35346
+STD0870,Toni Cross,Female,China,USA,Harvard University,Sciences,2019,4,Yes,Online,29351
+STD0871,Jerry Garcia,Male,India,Germany,LMU Munich,Computer Science,2018,5,No,Online,25352
+STD0872,Charles Patel,Female,Vietnam,France,Sorbonne University,Arts,2023,5,Yes,Online,11425
+STD0873,Gary Robertson,Male,Bangladesh,UK,University of Cambridge,Sciences,2022,2,Yes,Online,24272
+STD0874,Linda Hernandez,Other,China,UK,University of Oxford,Arts,2024,2,No,Online,65552
+STD0875,Erica Mccarthy,Male,India,Germany,LMU Munich,Sciences,2021,1,No,Offline,65334
+STD0876,Ernest Carter,Female,Bangladesh,Germany,TU Munich,Sciences,2020,5,Yes,Online,6538
+STD0877,Robert Guzman,Female,Brazil,Japan,Osaka University,Sciences,2018,4,Yes,Offline,7680
+STD0878,Jake Solis,Male,India,Australia,University of Sydney,Education,2019,2,Yes,Offline,15184
+STD0879,John Hamilton,Female,Nepal,UK,University of Oxford,Sciences,2024,1,No,Offline,26197
+STD0880,Michelle Weeks,Male,Nepal,Netherlands,Delft University,Computer Science,2024,3,Yes,Online,24659
+STD0881,Kevin Jensen,Other,Vietnam,UK,Imperial College London,Sciences,2018,1,Yes,Online,17366
+STD0882,Kimberly Rhodes,Female,Pakistan,UK,University of Oxford,Engineering,2018,3,No,Online,16673
+STD0883,Michael Pierce,Female,India,USA,MIT,Education,2018,5,No,Online,66661
+STD0884,Jeffery Smith,Female,India,Netherlands,University of Amsterdam,Sciences,2022,5,Yes,Offline,26329
+STD0885,Theresa Miller,Other,India,Netherlands,Erasmus University,Computer Science,2019,1,Yes,Online,24502
+STD0886,Katelyn Lewis,Other,Nepal,Australia,University of Sydney,Medicine,2022,3,No,Offline,41548
+STD0887,Marilyn Freeman,Male,Vietnam,Canada,University of Toronto,Medicine,2018,2,No,Offline,43628
+STD0888,Michael Williams,Male,Pakistan,Germany,LMU Munich,Medicine,2021,3,No,Offline,34171
+STD0889,Kathryn Sawyer,Other,India,Canada,University of Toronto,Law,2024,5,Yes,Offline,16266
+STD0890,Jason Scott,Male,Nigeria,Australia,University of Sydney,Law,2020,2,No,Offline,49306
+STD0891,Jillian Brown,Female,Pakistan,France,Sciences Po,Arts,2020,2,Yes,Offline,6382
+STD0892,Jennifer Lloyd,Other,Vietnam,Australia,University of Melbourne,Law,2019,4,Yes,Online,20753
+STD0893,Kerry Mason,Male,Pakistan,Japan,University of Tokyo,Education,2024,1,No,Online,14832
+STD0894,Suzanne Martin,Male,Pakistan,USA,Stanford University,Business,2020,4,Yes,Offline,6438
+STD0895,Austin White,Male,India,Australia,University of Melbourne,Arts,2019,3,Yes,Offline,23170
+STD0896,Lauren Hunter,Male,Nigeria,Canada,University of Toronto,Engineering,2024,3,Yes,Online,27198
+STD0897,Cheryl Duran MD,Female,China,Japan,Osaka University,Business,2019,3,No,Online,34224
+STD0898,Matthew Gomez,Other,Pakistan,Canada,University of British Columbia,Education,2018,1,Yes,Online,11214
+STD0899,Gregory Smith,Female,Nigeria,Japan,Osaka University,Computer Science,2022,4,Yes,Online,25186
+STD0900,Louis Taylor,Male,Nigeria,Germany,TU Munich,Computer Science,2018,3,Yes,Offline,11856
+STD0901,Michelle Higgins,Male,Nepal,Netherlands,Erasmus University,Business,2022,4,No,Offline,44006
+STD0902,Ashley Miller,Other,Vietnam,Canada,McGill University,Computer Science,2023,4,No,Offline,27585
+STD0903,Shelby Brooks,Male,Bangladesh,USA,Harvard University,Law,2021,2,No,Online,30053
+STD0904,Virginia Washington,Female,Bangladesh,Japan,Osaka University,Medicine,2020,5,Yes,Online,29629
+STD0905,Robert Watson,Male,Nepal,Germany,Heidelberg University,Computer Science,2022,1,No,Offline,37925
+STD0906,Trevor Barnett,Female,Vietnam,Netherlands,University of Amsterdam,Education,2024,4,No,Offline,35059
+STD0907,Paige Pham,Female,India,Canada,McGill University,Law,2023,1,No,Online,29301
+STD0908,Robert Abbott,Male,Nepal,Germany,TU Munich,Business,2018,3,Yes,Online,15936
+STD0909,Robin Medina,Other,Nigeria,France,École Polytechnique,Arts,2024,3,Yes,Online,29654
+STD0910,Veronica Diaz,Female,Brazil,USA,MIT,Arts,2024,4,No,Online,40933
+STD0911,Devin Nelson,Other,China,Japan,University of Tokyo,Law,2023,2,No,Online,43805
+STD0912,Christopher Yang,Female,Vietnam,Netherlands,University of Amsterdam,Business,2024,2,No,Offline,23735
+STD0913,Stephanie Mann,Female,Vietnam,Netherlands,Erasmus University,Engineering,2019,5,Yes,Offline,29176
+STD0914,Brian Evans,Female,India,Netherlands,Erasmus University,Computer Science,2019,4,No,Offline,59993
+STD0915,Stephen James,Other,Brazil,France,Sciences Po,Engineering,2024,1,Yes,Online,15821
+STD0916,Jacqueline Cervantes,Male,Bangladesh,Japan,University of Tokyo,Education,2022,4,Yes,Offline,8559
+STD0917,Monica Jackson,Male,Pakistan,Netherlands,Erasmus University,Arts,2019,1,Yes,Online,27577
+STD0918,Brian Garcia,Male,Vietnam,USA,Harvard University,Law,2021,3,Yes,Online,14538
+STD0919,Jamie Pierce,Other,Nepal,Netherlands,Delft University,Computer Science,2018,2,No,Offline,35631
+STD0920,Mike Myers,Female,China,UK,University of Oxford,Education,2023,1,No,Online,18515
+STD0921,Kelly Rivera,Male,Nigeria,Germany,Heidelberg University,Sciences,2022,5,No,Online,42930
+STD0922,Martin White,Male,Vietnam,Germany,TU Munich,Engineering,2021,1,No,Online,44462
+STD0923,Michael Mccormick,Other,Pakistan,Netherlands,University of Amsterdam,Sciences,2018,1,No,Offline,32726
+STD0924,Alyssa Hall,Female,Brazil,Japan,Osaka University,Medicine,2019,2,No,Offline,35209
+STD0925,Nicholas Fox,Male,China,UK,University of Cambridge,Engineering,2024,2,No,Offline,53690
+STD0926,Stephanie Daniels,Other,Nepal,Australia,ANU,Education,2018,3,Yes,Online,21528
+STD0927,Christine Shepard,Female,Pakistan,Japan,Kyoto University,Medicine,2019,5,Yes,Offline,5875
+STD0928,Richard Patterson,Other,Nepal,Netherlands,University of Amsterdam,Computer Science,2021,2,No,Online,10703
+STD0929,Emily Lamb MD,Female,Brazil,UK,Imperial College London,Medicine,2023,4,No,Offline,14471
+STD0930,Travis Rich,Male,Nepal,Australia,University of Sydney,Sciences,2021,3,Yes,Online,5591
+STD0931,Christopher Alvarez,Other,Nepal,Canada,McGill University,Business,2023,4,Yes,Online,27000
+STD0932,Jason Hernandez,Female,India,Germany,TU Munich,Sciences,2019,2,Yes,Online,19485
+STD0933,Colin Adams,Female,India,UK,University of Cambridge,Arts,2018,5,Yes,Online,17366
+STD0934,Stephen Baxter,Male,Nigeria,Australia,ANU,Law,2018,1,No,Online,10954
+STD0935,William Medina,Male,Pakistan,Australia,University of Sydney,Business,2018,2,Yes,Online,18621
+STD0936,Brian Wilkinson,Other,Nepal,France,École Polytechnique,Law,2019,5,No,Offline,17917
+STD0937,Joshua Davis,Female,Nigeria,Australia,University of Melbourne,Computer Science,2019,1,No,Offline,10785
+STD0938,Debra Young,Male,Bangladesh,Australia,ANU,Law,2023,3,No,Online,14412
+STD0939,Robert Bond,Male,Nigeria,Japan,Kyoto University,Sciences,2023,5,Yes,Offline,8104
+STD0940,Darrell Watts,Female,Pakistan,Japan,Osaka University,Medicine,2019,3,No,Online,31961
+STD0941,Edgar Rose,Other,India,Netherlands,University of Amsterdam,Law,2022,1,Yes,Online,25196
+STD0942,Michael Meza,Male,Nepal,Germany,TU Munich,Education,2022,1,Yes,Online,17272
+STD0943,Stephen Brewer,Female,Vietnam,Germany,TU Munich,Medicine,2019,1,Yes,Offline,29223
+STD0944,Jacob Conner,Other,Pakistan,Canada,McGill University,Computer Science,2024,1,No,Offline,59188
+STD0945,Charles Bass,Female,India,Australia,University of Sydney,Computer Science,2019,2,Yes,Online,27523
+STD0946,Crystal Patterson,Male,Nigeria,Japan,Osaka University,Computer Science,2021,1,Yes,Offline,7293
+STD0947,Steven Livingston,Male,Nigeria,USA,Stanford University,Medicine,2019,1,Yes,Online,12743
+STD0948,Jason Blevins,Female,Nepal,Japan,Osaka University,Sciences,2019,2,Yes,Offline,10781
+STD0949,James Nelson,Other,Nigeria,Germany,Heidelberg University,Sciences,2019,3,No,Online,33565
+STD0950,Gregory Reed,Female,Bangladesh,Japan,University of Tokyo,Sciences,2021,5,No,Online,63713
+STD0951,Jerome Davis,Male,Vietnam,USA,MIT,Education,2024,3,Yes,Online,13430
+STD0952,Matthew Ryan,Female,Bangladesh,Netherlands,University of Amsterdam,Sciences,2021,5,No,Online,31838
+STD0953,Billy Perry,Male,China,Netherlands,Delft University,Medicine,2018,1,No,Offline,36512
+STD0954,Mark Beck,Female,Bangladesh,Japan,Osaka University,Computer Science,2021,3,Yes,Offline,6272
+STD0955,Joshua Wells,Male,Nepal,Japan,Osaka University,Medicine,2024,4,No,Offline,43397
+STD0956,Joshua Cervantes,Other,Vietnam,France,Sciences Po,Engineering,2021,4,Yes,Online,20654
+STD0957,Laura Allen,Other,India,France,Sciences Po,Engineering,2023,2,No,Offline,54634
+STD0958,Alisha Hansen,Male,China,Germany,TU Munich,Medicine,2018,1,No,Offline,56272
+STD0959,Dr. Dawn Chambers,Female,Nepal,Australia,ANU,Medicine,2020,3,No,Offline,58099
+STD0960,Richard Daniels,Male,Bangladesh,UK,University of Oxford,Computer Science,2020,2,No,Offline,10420
+STD0961,Rachel Brooks,Male,China,Netherlands,Delft University,Business,2024,4,No,Offline,58040
+STD0962,Randall Martinez,Male,Bangladesh,Canada,University of Toronto,Computer Science,2023,2,Yes,Offline,10963
+STD0963,Debra Johnson,Male,Nepal,Netherlands,Erasmus University,Law,2019,1,Yes,Online,13498
+STD0964,Jacob Knight,Other,Bangladesh,Netherlands,Erasmus University,Business,2019,1,No,Online,34754
+STD0965,Pamela Collins,Male,Nepal,Germany,TU Munich,Computer Science,2022,2,No,Offline,54092
+STD0966,Kristopher Gallagher,Male,Nepal,USA,Harvard University,Arts,2023,5,Yes,Online,11916
+STD0967,Christopher Kim,Female,India,Japan,Osaka University,Arts,2021,3,No,Offline,34299
+STD0968,James Hunter,Other,Pakistan,France,Sorbonne University,Computer Science,2021,4,Yes,Offline,15821
+STD0969,Annette Morgan,Other,Nepal,USA,MIT,Education,2024,2,Yes,Online,22387
+STD0970,Carl Larson,Other,Brazil,Australia,ANU,Sciences,2023,4,No,Online,10205
+STD0971,Kim Pena,Male,Pakistan,USA,Stanford University,Computer Science,2024,3,No,Online,49764
+STD0972,Kevin Johnson,Female,Vietnam,Japan,Osaka University,Business,2021,4,Yes,Offline,14629
+STD0973,Amanda White,Male,Nigeria,Canada,University of British Columbia,Engineering,2021,1,No,Offline,21013
+STD0974,John Spence,Male,Vietnam,UK,University of Cambridge,Law,2019,2,Yes,Online,19250
+STD0975,Stephen Collins,Female,India,Canada,McGill University,Education,2019,3,No,Online,53612
+STD0976,Dana Reynolds,Male,China,Netherlands,Delft University,Computer Science,2022,5,Yes,Offline,17353
+STD0977,Terry Fleming,Female,Bangladesh,Japan,University of Tokyo,Law,2018,3,Yes,Online,7920
+STD0978,Victoria Harrell,Other,Pakistan,Australia,University of Sydney,Business,2020,2,No,Offline,47808
+STD0979,Bonnie Washington,Female,India,Germany,TU Munich,Law,2021,3,No,Online,44062
+STD0980,Patricia Copeland,Other,Nigeria,UK,University of Cambridge,Engineering,2024,4,No,Online,63487
+STD0981,Brandon Howell,Male,Brazil,Australia,ANU,Sciences,2022,3,Yes,Online,24624
+STD0982,Shawna Griffith,Female,Pakistan,Germany,LMU Munich,Business,2024,5,No,Online,42441
+STD0983,Carrie Macias,Male,Brazil,Japan,University of Tokyo,Computer Science,2024,2,Yes,Online,10866
+STD0984,Melinda Lewis,Male,Vietnam,Japan,Kyoto University,Medicine,2022,4,No,Offline,54426
+STD0985,Heather Chandler,Male,Vietnam,France,École Polytechnique,Education,2022,3,No,Online,55947
+STD0986,David Williamson,Other,Bangladesh,UK,University of Oxford,Computer Science,2024,1,No,Offline,52902
+STD0987,Leslie Brown,Female,China,Canada,McGill University,Sciences,2019,2,Yes,Online,29094
+STD0988,Jeremy Atkins,Other,India,France,Sciences Po,Business,2024,2,No,Offline,54528
+STD0989,Sean Moran,Female,China,USA,Harvard University,Computer Science,2019,1,Yes,Offline,24444
+STD0990,John Hernandez,Male,Bangladesh,Canada,University of British Columbia,Education,2018,1,Yes,Offline,21011
+STD0991,Jaclyn Harvey,Other,Brazil,Canada,University of British Columbia,Education,2024,1,No,Offline,28036
+STD0992,Angela Mitchell,Male,Vietnam,France,Sorbonne University,Business,2018,1,No,Online,11509
+STD0993,Melissa Brown,Other,Vietnam,Germany,LMU Munich,Business,2019,4,No,Offline,29553
+STD0994,Bruce Shelton,Other,China,UK,University of Cambridge,Business,2024,5,Yes,Offline,27961
+STD0995,Vicki Wilson,Male,India,Japan,Osaka University,Sciences,2022,5,Yes,Online,26580
+STD0996,Crystal Patrick,Male,Nepal,Canada,University of British Columbia,Medicine,2022,4,No,Online,12565
+STD0997,Jennifer Hodges,Male,China,Australia,University of Sydney,Medicine,2022,3,Yes,Online,9086
+STD0998,Tony Baker,Female,Brazil,France,Sciences Po,Medicine,2023,1,Yes,Offline,6512
+STD0999,Dustin Kim,Other,Brazil,Netherlands,Delft University,Sciences,2020,5,No,Online,55084
+STD1000,Patrick Martinez,Male,Nepal,USA,Harvard University,Engineering,2019,3,Yes,Online,24731
